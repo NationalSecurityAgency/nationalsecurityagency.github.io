@@ -48,7 +48,7 @@ a:hover, a:active, a:focus {
 	text-decoration: none;
 }
 
-.box p, .tech-content p {
+#box p, .tech-content p {
 	color: #585858;
 }
 
@@ -143,29 +143,28 @@ a:hover, a:active, a:focus {
 	background-color: #1A447F;
 	text-align: center;
 	margin: 0 auto;
-	padding: 75px 50px 25px;
+	padding: 0px;
 }
 
-.background-image {
-	background-color: #1B4580;
-	background-size: cover;
+header {
+  padding-top: 200px;
+  background-image: url("../img/header.png");
+	background-size: contain;
 	background-position: top center;
 	background-repeat: no-repeat;
 }
 
-.intro {
-	margin: 125px -50px -50px;
-}
-
-.box {
-	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+#box {
+  width: 60%;
+  margin: auto;
+	box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.1);
 	background-color: #f5f6f7;
-	padding: 75px 100px;
-	border-radius: 5px;
+	padding: 50px;
+	border-radius: 10px;
 }
 
-.tech-content {
-	margin-top: 100px;
+#tech-content {
+	margin-top: 20px;
 }
 
 .col-md-4 {
@@ -182,7 +181,4 @@ a:hover, a:active, a:focus {
 	border-bottom:2px #EFEFEF solid;
 }
 
-.wordmark {
-	max-width: 100%;
-}
 /*END LAYOUT*/
