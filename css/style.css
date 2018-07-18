@@ -154,6 +154,7 @@ header {
 	background-repeat: no-repeat;
 }
 
+@media (min-width: 0px) and (max-width: 720px){
 #box {
   width: 90%;
   margin: auto;
@@ -161,8 +162,20 @@ header {
 	background-color: #f5f6f7;
 	padding: 50px;
 	border-radius: 10px;
+	}
 }
 
+@media (min-width: 721px){
+	#box {
+	  width: 60%;
+	  margin: auto;
+		box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.1);
+		background-color: #f5f6f7;
+		padding: 50px;
+		border-radius: 10px;
+		}
+	}
+	
 #tech-content {
 	margin-top: 20px;
 }
