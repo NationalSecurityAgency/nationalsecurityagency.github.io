@@ -1,0 +1,1271 @@
+{
+  "version": "2.0",
+  "agency": "NSA Cybersecurity",
+  "measurementType": {
+    "method": "projects"
+  },
+  "releases": [
+    {
+      "name": "AppLocker-Guidance",
+      "repositoryURL": "https://github.com/nsacyber/AppLocker-Guidance",
+      "description": "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/AppLocker-Guidance/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "application-whitelisting",
+        "applocker",
+        "microsoft-applocker",
+        "whitelisting",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/AppLocker-Guidance",
+      "downloadURL": "https://github.com/nsacyber/AppLocker-Guidance/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/AppLocker-Guidance/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2015-05-01",
+        "metadataLastUpdated": "2018-08-23",
+        "lastModified": "2018-07-10"
+      },
+      "languages": [
+        "PowerShell",
+        "Batchfile"
+      ]
+    },
+    {
+      "name": "AtomicWatch",
+      "repositoryURL": "https://github.com/nsacyber/AtomicWatch",
+      "description": "Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/AtomicWatch/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "atom",
+        "cpu",
+        "intel",
+        "processor"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/AtomicWatch",
+      "downloadURL": "https://github.com/nsacyber/AtomicWatch/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/AtomicWatch/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-06-08",
+        "metadataLastUpdated": "2018-05-13",
+        "lastModified": "2017-06-10"
+      },
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "name": "BitLocker-Guidance",
+      "repositoryURL": "https://github.com/nsacyber/BitLocker-Guidance",
+      "description": "Configuration guidance for implementing BitLocker. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/BitLocker-Guidance/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "audit",
+        "bitlocker",
+        "bitlocker-drive-encryption",
+        "encryption",
+        "full-disk-encryption",
+        "guidance",
+        "microsoft",
+        "nessus",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/BitLocker-Guidance",
+      "downloadURL": "https://github.com/nsacyber/BitLocker-Guidance/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/BitLocker-Guidance/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2018-02-12",
+        "metadataLastUpdated": "2018-08-23",
+        "lastModified": "2018-07-10"
+      },
+      "languages": [
+        "PowerShell",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Certificate-Authority-Situational-Awareness",
+      "repositoryURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness",
+      "description": "Identifies unexpected and prohibited certificate authority certificates on Windows systems. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/blob/master/LICENSE.md",
+            "name": "Unlicense"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "certificate",
+        "certificate-authorities",
+        "certificate-authority",
+        "certificates",
+        "splunk",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness",
+      "downloadURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-05-23",
+        "metadataLastUpdated": "2018-08-31",
+        "lastModified": "2016-06-02"
+      },
+      "languages": [
+        "PowerShell",
+        "Batchfile",
+        "CSS"
+      ]
+    },
+    {
+      "name": "CodeGov",
+      "repositoryURL": "https://github.com/nsacyber/CodeGov",
+      "description": "Creates a code.gov code inventory JSON file based on GitHub repository information. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/CodeGov/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "gov",
+        "government",
+        "json",
+        "powershell-module"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/CodeGov",
+      "downloadURL": "https://github.com/nsacyber/CodeGov/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/CodeGov/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-10-17",
+        "metadataLastUpdated": "2018-09-06",
+        "lastModified": "2018-09-06"
+      },
+      "languages": [
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Control-Flow-Integrity",
+      "repositoryURL": "https://github.com/nsacyber/Control-Flow-Integrity",
+      "description": "A proposed hardware-based method for stopping known memory corruption exploitation techniques. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "control-flow",
+        "control-flow-analysis",
+        "control-flow-integrity"
+      ],
+      "contact": {
+        "email": "control-flow-integrity@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "control-flow-integrity"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Control-Flow-Integrity",
+      "downloadURL": "https://github.com/repos/nsacyber/Control-Flow-Integrity/zipball/v1.0.0",
+      "disclaimerURL": "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2015-07-23",
+        "metadataLastUpdated": "2018-08-10",
+        "lastModified": "2017-05-10"
+      },
+      "languages": [
+        "C"
+      ]
+    },
+    {
+      "name": "Detect-CVE-2017-15361-TPM",
+      "repositoryURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM",
+      "description": "Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "audit",
+        "cve",
+        "nessus",
+        "rsa",
+        "tpm",
+        "trusted-platform-module",
+        "vulnerability"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM",
+      "downloadURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-10-19",
+        "metadataLastUpdated": "2018-09-04",
+        "lastModified": "2018-09-04"
+      },
+      "languages": [
+        "PowerShell",
+        "Shell"
+      ]
+    },
+    {
+      "name": "Driver-Collider",
+      "repositoryURL": "https://github.com/nsacyber/Driver-Collider",
+      "description": "Blocks drivers from loading by using a name collision technique. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Driver-Collider/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "driver",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Driver-Collider",
+      "downloadURL": "https://github.com/nsacyber/Driver-Collider/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Driver-Collider/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-10-17",
+        "metadataLastUpdated": "2018-08-23",
+        "lastModified": "2017-12-18"
+      },
+      "languages": [
+        "C",
+        "PowerShell",
+        "Roff"
+      ]
+    },
+    {
+      "name": "Event-Forwarding-Guidance",
+      "repositoryURL": "https://github.com/nsacyber/Event-Forwarding-Guidance",
+      "description": "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "event-log",
+        "siem",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Event-Forwarding-Guidance",
+      "downloadURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2015-01-09",
+        "metadataLastUpdated": "2018-09-06",
+        "lastModified": "2017-12-01"
+      },
+      "languages": [
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "goSecure",
+      "repositoryURL": "https://github.com/nsacyber/goSecure",
+      "description": "An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/goSecure/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "linux",
+        "raspberry-pi",
+        "strongswan",
+        "vpn"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://nsacyber.github.io/goSecure/",
+      "downloadURL": "https://github.com/nsacyber/goSecure/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/goSecure/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-04-28",
+        "metadataLastUpdated": "2018-09-03",
+        "lastModified": "2017-06-27"
+      },
+      "languages": [
+        "OpenEdge ABL",
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Python"
+      ]
+    },
+    {
+      "name": "GRASSMARLIN",
+      "repositoryURL": "https://github.com/nsacyber/GRASSMARLIN",
+      "description": "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/GRASSMARLIN/blob/master/LICENSE.md",
+            "name": "LGPL-3.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "analysis",
+        "control-systems",
+        "ics",
+        "ics-scada",
+        "monitor",
+        "monitoring",
+        "network",
+        "networking",
+        "scada",
+        "scada-security",
+        "visualization"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/GRASSMARLIN",
+      "downloadURL": "https://github.com/repos/nsacyber/GRASSMARLIN/zipball/v3.2.1",
+      "disclaimerURL": "https://github.com/nsacyber/GRASSMARLIN/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2015-12-14",
+        "metadataLastUpdated": "2018-09-05",
+        "lastModified": "2018-03-09"
+      },
+      "languages": [
+        "HTML",
+        "Java",
+        "ANTLR"
+      ]
+    },
+    {
+      "name": "HIRS",
+      "repositoryURL": "https://github.com/nsacyber/HIRS",
+      "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/HIRS/blob/master/LICENSE.md",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "integrity",
+        "provisioning",
+        "supply-chain",
+        "trusted-computing",
+        "trusted-platform-module",
+        "validation"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/HIRS",
+      "downloadURL": "https://github.com/repos/nsacyber/HIRS/zipball/v1.0.1",
+      "disclaimerURL": "https://github.com/nsacyber/HIRS/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2018-01-19",
+        "metadataLastUpdated": "2018-09-06",
+        "lastModified": "2018-09-06"
+      },
+      "languages": [
+        "Makefile",
+        "Java",
+        "CSS",
+        "JavaScript",
+        "Roff",
+        "C++",
+        "Shell",
+        "CMake",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "HTTP-Connectivity-Tester",
+      "repositoryURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester",
+      "description": "Aids in discovering HTTP and HTTPS connectivity issues. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "connection",
+        "connectivity",
+        "diagnostic",
+        "diagnostics",
+        "http",
+        "https",
+        "powershell-module",
+        "test",
+        "testing"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester",
+      "downloadURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-10-17",
+        "metadataLastUpdated": "2018-09-03",
+        "lastModified": "2018-08-27"
+      },
+      "languages": [
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "LOCKLEVEL",
+      "repositoryURL": "https://github.com/nsacyber/LOCKLEVEL",
+      "description": "A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/LOCKLEVEL/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "assessment",
+        "compliance",
+        "scoring",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/LOCKLEVEL",
+      "downloadURL": "https://github.com/nsacyber/LOCKLEVEL/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/LOCKLEVEL/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-05-19",
+        "metadataLastUpdated": "2018-08-23",
+        "lastModified": "2016-06-08"
+      },
+      "languages": [
+        "Objective-C",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "C++",
+        "PowerShell",
+        "C",
+        "CMake",
+        "Batchfile"
+      ]
+    },
+    {
+      "name": "Maplesyrup",
+      "repositoryURL": "https://github.com/nsacyber/Maplesyrup",
+      "description": "Assesses CPU security of embedded devices. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Maplesyrup/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "arm",
+        "assessment",
+        "audit",
+        "auditing",
+        "cpu",
+        "security"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Maplesyrup",
+      "downloadURL": "https://github.com/nsacyber/Maplesyrup/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Maplesyrup/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2015-07-24",
+        "metadataLastUpdated": "2018-06-21",
+        "lastModified": "2016-06-01"
+      },
+      "languages": [
+        "Makefile",
+        "M4",
+        "Objective-C",
+        "Python",
+        "Shell",
+        "C",
+        "Assembly"
+      ]
+    },
+    {
+      "name": "netfil",
+      "repositoryURL": "https://github.com/nsacyber/netfil",
+      "description": "A kernel network manager with monitoring and limiting capabilities for macOS. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/netfil/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "macos",
+        "macosx",
+        "monitor",
+        "monitoring",
+        "network",
+        "networking"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/netfil",
+      "downloadURL": "https://github.com/nsacyber/netfil/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/netfil/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-02-23",
+        "metadataLastUpdated": "2018-06-29",
+        "lastModified": "2017-03-16"
+      },
+      "languages": [
+        "C",
+        "Objective-C",
+        "Swift",
+        "Shell"
+      ]
+    },
+    {
+      "name": "netman",
+      "repositoryURL": "https://github.com/nsacyber/netman",
+      "description": "A userland network manager with monitoring and limiting capabilities for macOS. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/netman/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "macos",
+        "macosx",
+        "monitor",
+        "monitoring",
+        "network",
+        "networking"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/netman",
+      "downloadURL": "https://github.com/nsacyber/netman/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/netman/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-11-18",
+        "metadataLastUpdated": "2018-05-15",
+        "lastModified": "2016-11-29"
+      },
+      "languages": [
+        "Makefile",
+        "C"
+      ]
+    },
+    {
+      "name": "Pass-the-Hash-Guidance",
+      "repositoryURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance",
+      "description": "Configuration guidance for implementing Pass-the-Hash mitigations. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "pass-the-hash",
+        "pth",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance",
+      "downloadURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2014-12-29",
+        "metadataLastUpdated": "2018-08-31",
+        "lastModified": "2016-11-25"
+      },
+      "languages": [
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "serial2pcap",
+      "repositoryURL": "https://github.com/nsacyber/serial2pcap",
+      "description": "Converts serial IP data, typically collected from Industrial Control System devices, to the more commonly used Packet Capture (PCAP) format. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/serial2pcap/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "control-systems",
+        "conversion",
+        "convert",
+        "converter",
+        "ics-scada",
+        "pcap",
+        "scada"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/serial2pcap",
+      "downloadURL": "https://github.com/nsacyber/serial2pcap/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/serial2pcap/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-10-02",
+        "metadataLastUpdated": "2018-05-24",
+        "lastModified": "2017-10-25"
+      },
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "name": "simon-speck",
+      "repositoryURL": "https://github.com/nsacyber/simon-speck",
+      "description": "The SIMON and SPECK families of lightweight block ciphers. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/simon-speck/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "cipher",
+        "ciphers",
+        "crypto",
+        "crypto-library",
+        "cryptography",
+        "cryptography-library",
+        "simon",
+        "speck"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://nsacyber.github.io/simon-speck/",
+      "downloadURL": "https://github.com/nsacyber/simon-speck/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/simon-speck/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-07-01",
+        "metadataLastUpdated": "2018-09-05",
+        "lastModified": "2018-08-27"
+      }
+    },
+    {
+      "name": "simon-speck-supercop",
+      "repositoryURL": "https://github.com/nsacyber/simon-speck-supercop",
+      "description": "Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/simon-speck-supercop/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "cipher",
+        "ciphers",
+        "crypto",
+        "crypto-library",
+        "cryptography",
+        "cryptography-library",
+        "simon",
+        "speck",
+        "supercop"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://nsacyber.github.io/simon-speck",
+      "downloadURL": "https://github.com/nsacyber/simon-speck-supercop/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/simon-speck-supercop/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-07-01",
+        "metadataLastUpdated": "2018-06-13",
+        "lastModified": "2018-06-13"
+      },
+      "languages": [
+        "q",
+        "GDB",
+        "Objective-C",
+        "Shell",
+        "XS",
+        "Emacs Lisp",
+        "Makefile",
+        "Perl 6",
+        "M4",
+        "Perl",
+        "Python",
+        "HiveQL",
+        "Yacc",
+        "Lex",
+        "TeX",
+        "Fortran",
+        "HTML",
+        "PHP",
+        "C++",
+        "Assembly",
+        "C"
+      ]
+    },
+    {
+      "name": "Spectre-and-Meltdown-Guidance",
+      "repositoryURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance",
+      "description": "Guidance for the Spectre and Meltdown vulnerabilities. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "audit",
+        "cve",
+        "cve-2017-5715",
+        "cve-2017-5753",
+        "cve-2017-5754",
+        "guidance",
+        "meltdown",
+        "nessus",
+        "spectre",
+        "vulnerability"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance",
+      "downloadURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2018-01-10",
+        "metadataLastUpdated": "2018-08-24",
+        "lastModified": "2018-07-30"
+      }
+    },
+    {
+      "name": "Splunk-Assessment-of-Mitigation-Implementations",
+      "repositoryURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
+      "description": "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/blob/master/LICENSE.md",
+            "name": "Unlicense"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "assessment",
+        "audit",
+        "auditing",
+        "compliance",
+        "scoring",
+        "splunk",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Archival",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
+      "downloadURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-05-19",
+        "metadataLastUpdated": "2018-07-21",
+        "lastModified": "2016-05-25"
+      },
+      "languages": [
+        "Batchfile",
+        "JavaScript",
+        "CSS",
+        "Python"
+      ]
+    },
+    {
+      "name": "unfetter",
+      "repositoryURL": "https://github.com/nsacyber/unfetter",
+      "description": "Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/unfetter/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "unfetter"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "http://unfetter.io/",
+      "downloadURL": "https://github.com/nsacyber/unfetter/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/unfetter/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-09-12",
+        "metadataLastUpdated": "2018-09-05",
+        "lastModified": "2018-08-22"
+      }
+    },
+    {
+      "name": "WALKOFF",
+      "repositoryURL": "https://github.com/nsacyber/WALKOFF",
+      "description": "A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/WALKOFF/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "administration",
+        "analytics",
+        "automation",
+        "automation-framework",
+        "cybersecurity",
+        "devops",
+        "framework",
+        "integration",
+        "orchestration",
+        "orchestration-framework",
+        "orchestrator",
+        "python",
+        "security",
+        "sysadmin",
+        "walkoff",
+        "walkoff-apps",
+        "walkoff-workflows",
+        "workflow"
+      ],
+      "contact": {
+        "email": "walkoff@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "walkoff"
+      },
+      "status": "Beta",
+      "vcs": "git",
+      "homepageURL": "https://nsacyber.github.io/WALKOFF/",
+      "downloadURL": "https://github.com/repos/nsacyber/WALKOFF/zipball/v0.8.4",
+      "disclaimerURL": "https://github.com/nsacyber/WALKOFF/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-06-08",
+        "metadataLastUpdated": "2018-09-06",
+        "lastModified": "2018-09-06"
+      },
+      "languages": [
+        "Mako",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "WALKOFF-Apps",
+      "repositoryURL": "https://github.com/nsacyber/WALKOFF-Apps",
+      "description": "WALKOFF-enabled applications. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/WALKOFF-Apps/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "administration",
+        "analytics",
+        "automation",
+        "cybersecurity",
+        "integration",
+        "iot",
+        "orchestration",
+        "orchestration-framework",
+        "orchestrator",
+        "python",
+        "security",
+        "walkoff",
+        "walkoff-apps"
+      ],
+      "contact": {
+        "email": "walkoff@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "walkoff"
+      },
+      "status": "Beta",
+      "vcs": "git",
+      "homepageURL": "https://nsacyber.github.io/WALKOFF",
+      "downloadURL": "https://github.com/nsacyber/WALKOFF-Apps/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/WALKOFF-Apps/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2017-05-16",
+        "metadataLastUpdated": "2018-08-26",
+        "lastModified": "2018-07-10"
+      },
+      "languages": [
+        "Makefile",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "Shell",
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Windows-Event-Log-Messages",
+      "repositoryURL": "https://github.com/nsacyber/Windows-Event-Log-Messages",
+      "description": "Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "event-log",
+        "windows"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Windows-Event-Log-Messages",
+      "downloadURL": "https://github.com/repos/nsacyber/Windows-Event-Log-Messages/zipball/v2.3.0.0-20170406",
+      "disclaimerURL": "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-07-19",
+        "metadataLastUpdated": "2018-09-03",
+        "lastModified": "2018-07-10"
+      },
+      "languages": [
+        "PowerShell",
+        "Batchfile",
+        "C#"
+      ]
+    },
+    {
+      "name": "Windows-Secure-Host-Baseline",
+      "repositoryURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline",
+      "description": "Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "adobe-reader",
+        "applocker",
+        "audit",
+        "auditing",
+        "certificates",
+        "chrome-browser",
+        "compliance",
+        "group-policy",
+        "internet-explorer",
+        "microsoft-office",
+        "nessus",
+        "windows",
+        "windows-10",
+        "windows-firewall",
+        "windows-server",
+        "windows-server-2016"
+      ],
+      "contact": {
+        "email": "iad_ccc@nsa.gov",
+        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "name": "NSA Client Contact Center",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline",
+      "downloadURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2016-02-26",
+        "metadataLastUpdated": "2018-09-05",
+        "lastModified": "2018-08-10"
+      },
+      "languages": [
+        "PowerShell",
+        "HTML"
+      ]
+    }
+  ]
+}
