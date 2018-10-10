@@ -27,9 +27,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -39,7 +39,7 @@
       "disclaimerURL": "https://github.com/nsacyber/AppLocker-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-05-01",
-        "metadataLastUpdated": "2018-08-23",
+        "metadataLastUpdated": "2018-10-01",
         "lastModified": "2018-07-10"
       },
       "languages": [
@@ -68,9 +68,9 @@
         "processor"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -113,9 +113,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -156,9 +156,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -198,9 +198,9 @@
         "powershell-module"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -238,7 +238,7 @@
       ],
       "contact": {
         "email": "control-flow-integrity@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "URL": "https://www.nsa.gov/about/contact-us/",
         "name": "control-flow-integrity"
       },
       "status": "Archival",
@@ -248,7 +248,7 @@
       "disclaimerURL": "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-07-23",
-        "metadataLastUpdated": "2018-08-10",
+        "metadataLastUpdated": "2018-09-10",
         "lastModified": "2017-05-10"
       },
       "languages": [
@@ -279,9 +279,9 @@
         "vulnerability"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -318,9 +318,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -359,9 +359,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -371,7 +371,7 @@
       "disclaimerURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-01-09",
-        "metadataLastUpdated": "2018-09-06",
+        "metadataLastUpdated": "2018-10-03",
         "lastModified": "2017-12-01"
       },
       "languages": [
@@ -399,9 +399,9 @@
         "vpn"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -411,7 +411,7 @@
       "disclaimerURL": "https://github.com/nsacyber/goSecure/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-04-28",
-        "metadataLastUpdated": "2018-09-03",
+        "metadataLastUpdated": "2018-10-02",
         "lastModified": "2017-06-27"
       },
       "languages": [
@@ -450,9 +450,9 @@
         "visualization"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -462,7 +462,7 @@
       "disclaimerURL": "https://github.com/nsacyber/GRASSMARLIN/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-12-14",
-        "metadataLastUpdated": "2018-09-05",
+        "metadataLastUpdated": "2018-10-02",
         "lastModified": "2018-03-09"
       },
       "languages": [
@@ -470,6 +470,53 @@
         "Java",
         "ANTLR"
       ]
+    },
+    {
+      "name": "Hardware-and-Firmware-Security-Guidance",
+      "repositoryURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance",
+      "description": "Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/blob/master/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "audit",
+        "cve",
+        "cve-2017-5715",
+        "cve-2017-5753",
+        "cve-2017-5754",
+        "cve-2018-3639",
+        "cve-2018-3640",
+        "cve-2018-3665",
+        "cve-2018-3693",
+        "guidance",
+        "meltdown",
+        "nessus",
+        "spectre",
+        "vulnerability"
+      ],
+      "contact": {
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance",
+      "downloadURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/archive/master.zip",
+      "disclaimerURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2018-01-10",
+        "metadataLastUpdated": "2018-09-23",
+        "lastModified": "2018-07-30"
+      }
     },
     {
       "name": "HIRS",
@@ -494,9 +541,9 @@
         "validation"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -506,8 +553,8 @@
       "disclaimerURL": "https://github.com/nsacyber/HIRS/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2018-01-19",
-        "metadataLastUpdated": "2018-09-06",
-        "lastModified": "2018-09-06"
+        "metadataLastUpdated": "2018-10-05",
+        "lastModified": "2018-10-05"
       },
       "languages": [
         "Makefile",
@@ -518,7 +565,8 @@
         "C++",
         "Shell",
         "CMake",
-        "Ruby"
+        "Ruby",
+        "Dockerfile"
       ]
     },
     {
@@ -547,9 +595,9 @@
         "testing"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -559,8 +607,8 @@
       "disclaimerURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-10-17",
-        "metadataLastUpdated": "2018-09-03",
-        "lastModified": "2018-08-27"
+        "metadataLastUpdated": "2018-09-26",
+        "lastModified": "2018-09-26"
       },
       "languages": [
         "PowerShell"
@@ -587,9 +635,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -638,9 +686,9 @@
         "security"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -686,9 +734,9 @@
         "networking"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -698,7 +746,7 @@
       "disclaimerURL": "https://github.com/nsacyber/netfil/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-02-23",
-        "metadataLastUpdated": "2018-06-29",
+        "metadataLastUpdated": "2018-10-04",
         "lastModified": "2017-03-16"
       },
       "languages": [
@@ -731,9 +779,9 @@
         "networking"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -743,12 +791,53 @@
       "disclaimerURL": "https://github.com/nsacyber/netman/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-11-18",
-        "metadataLastUpdated": "2018-05-15",
+        "metadataLastUpdated": "2018-10-04",
         "lastModified": "2016-11-29"
       },
       "languages": [
         "Makefile",
         "C"
+      ]
+    },
+    {
+      "name": "paccor",
+      "repositoryURL": "https://github.com/nsacyber/paccor",
+      "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/paccor/blob/master/LICENSE.md",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "certificate",
+        "certificates",
+        "credential",
+        "trusted-computing"
+      ],
+      "contact": {
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/HIRS",
+      "downloadURL": "https://github.com/repos/nsacyber/paccor/zipball/v1.0.0r2",
+      "disclaimerURL": "https://github.com/nsacyber/paccor/blob/master/DISCLAIMER.md",
+      "date": {
+        "created": "2018-09-28",
+        "metadataLastUpdated": "2018-10-02",
+        "lastModified": "2018-10-02"
+      },
+      "languages": [
+        "Shell",
+        "Java"
       ]
     },
     {
@@ -771,9 +860,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -783,7 +872,7 @@
       "disclaimerURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2014-12-29",
-        "metadataLastUpdated": "2018-08-31",
+        "metadataLastUpdated": "2018-10-03",
         "lastModified": "2016-11-25"
       },
       "languages": [
@@ -814,9 +903,9 @@
         "scada"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -858,9 +947,9 @@
         "speck"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -870,7 +959,7 @@
       "disclaimerURL": "https://github.com/nsacyber/simon-speck/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-07-01",
-        "metadataLastUpdated": "2018-09-05",
+        "metadataLastUpdated": "2018-10-02",
         "lastModified": "2018-08-27"
       }
     },
@@ -900,9 +989,9 @@
         "supercop"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -940,49 +1029,6 @@
       ]
     },
     {
-      "name": "Spectre-and-Meltdown-Guidance",
-      "repositoryURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance",
-      "description": "Guidance for the Spectre and Meltdown vulnerabilities. #nsacyber",
-      "permissions": {
-        "licenses": [
-          {
-            "URL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
-          }
-        ],
-        "usageType": "openSource"
-      },
-      "laborHours": 1,
-      "tags": [
-        "audit",
-        "cve",
-        "cve-2017-5715",
-        "cve-2017-5753",
-        "cve-2017-5754",
-        "guidance",
-        "meltdown",
-        "nessus",
-        "spectre",
-        "vulnerability"
-      ],
-      "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
-        "phone": "410-854-4200"
-      },
-      "status": "Production",
-      "vcs": "git",
-      "homepageURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance",
-      "downloadURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Spectre-and-Meltdown-Guidance/blob/master/DISCLAIMER.md",
-      "date": {
-        "created": "2018-01-10",
-        "metadataLastUpdated": "2018-08-24",
-        "lastModified": "2018-07-30"
-      }
-    },
-    {
       "name": "Splunk-Assessment-of-Mitigation-Implementations",
       "repositoryURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
       "description": "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
@@ -1006,9 +1052,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Archival",
@@ -1018,7 +1064,7 @@
       "disclaimerURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-05-19",
-        "metadataLastUpdated": "2018-07-21",
+        "metadataLastUpdated": "2018-10-02",
         "lastModified": "2016-05-25"
       },
       "languages": [
@@ -1046,9 +1092,9 @@
         "unfetter"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -1058,7 +1104,7 @@
       "disclaimerURL": "https://github.com/nsacyber/unfetter/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-09-12",
-        "metadataLastUpdated": "2018-09-05",
+        "metadataLastUpdated": "2018-09-18",
         "lastModified": "2018-08-22"
       }
     },
@@ -1098,18 +1144,18 @@
       ],
       "contact": {
         "email": "walkoff@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "URL": "https://www.nsa.gov/about/contact-us/",
         "name": "walkoff"
       },
       "status": "Beta",
       "vcs": "git",
       "homepageURL": "https://nsacyber.github.io/WALKOFF/",
-      "downloadURL": "https://github.com/repos/nsacyber/WALKOFF/zipball/v0.8.4",
+      "downloadURL": "https://github.com/repos/nsacyber/WALKOFF/zipball/v0.8.5",
       "disclaimerURL": "https://github.com/nsacyber/WALKOFF/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-06-08",
-        "metadataLastUpdated": "2018-09-06",
-        "lastModified": "2018-09-06"
+        "metadataLastUpdated": "2018-10-04",
+        "lastModified": "2018-10-03"
       },
       "languages": [
         "Mako",
@@ -1151,7 +1197,7 @@
       ],
       "contact": {
         "email": "walkoff@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
+        "URL": "https://www.nsa.gov/about/contact-us/",
         "name": "walkoff"
       },
       "status": "Beta",
@@ -1161,8 +1207,8 @@
       "disclaimerURL": "https://github.com/nsacyber/WALKOFF-Apps/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-05-16",
-        "metadataLastUpdated": "2018-08-26",
-        "lastModified": "2018-07-10"
+        "metadataLastUpdated": "2018-10-01",
+        "lastModified": "2018-09-14"
       },
       "languages": [
         "Makefile",
@@ -1193,9 +1239,9 @@
         "windows"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -1205,7 +1251,7 @@
       "disclaimerURL": "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-07-19",
-        "metadataLastUpdated": "2018-09-03",
+        "metadataLastUpdated": "2018-09-30",
         "lastModified": "2018-07-10"
       },
       "languages": [
@@ -1247,9 +1293,9 @@
         "windows-server-2016"
       ],
       "contact": {
-        "email": "iad_ccc@nsa.gov",
-        "URL": "https://www.iad.gov/iad/library/supporting-documents/faq/iad-contact-list.cfm",
-        "name": "NSA Client Contact Center",
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
         "phone": "410-854-4200"
       },
       "status": "Production",
@@ -1259,8 +1305,8 @@
       "disclaimerURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-02-26",
-        "metadataLastUpdated": "2018-09-05",
-        "lastModified": "2018-08-10"
+        "metadataLastUpdated": "2018-10-05",
+        "lastModified": "2018-09-12"
       },
       "languages": [
         "PowerShell",
