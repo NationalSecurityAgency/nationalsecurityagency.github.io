@@ -1,10 +1,690 @@
 {
   "version": "2.0",
-  "agency": "NSA Cybersecurity",
+  "agency": "National Security Agency",
   "measurementType": {
     "method": "projects"
   },
   "releases": [
+    {
+      "name": "datawave",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/datawave",
+      "description": "DataWave is an ingest/query framework that leverages Apache Accumulo to provide fast, secure data access.",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/datawave/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "accumulo",
+        "bigdata",
+        "java"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://code.nsa.gov/datawave",
+      "downloadURL": "https://github.com/NationalSecurityAgency/datawave/archive/master.zip",
+      "date": {
+        "created": "2018-01-10",
+        "metadataLastUpdated": "2019-02-06",
+        "lastModified": "2019-02-06"
+      },
+      "languages": [
+        "Java",
+        "XSLT",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "Scheme",
+        "Shell",
+        "Dockerfile"
+      ]
+    },
+    {
+      "name": "datawave-muchos",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/datawave-muchos",
+      "description": "This project leverages Ansible to automate DataWave deployments on your cluster",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/datawave-muchos/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "accumulo",
+        "ansible",
+        "datawave",
+        "muchos"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/datawave-muchos",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/datawave-muchos/zipball/v1.0",
+      "date": {
+        "created": "2018-05-11",
+        "metadataLastUpdated": "2019-01-24",
+        "lastModified": "2019-01-24"
+      },
+      "languages": [
+        "Shell"
+      ]
+    },
+    {
+      "name": "DCP",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/DCP",
+      "description": "Digest, stat, and copy files from one location to another in the same read pass",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/DCP/blob/master/LICENSE",
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/DCP",
+      "downloadURL": "https://github.com/NationalSecurityAgency/DCP/archive/master.zip",
+      "date": {
+        "created": "2016-08-05",
+        "metadataLastUpdated": "2019-01-30",
+        "lastModified": "2019-01-29"
+      },
+      "languages": [
+        "C",
+        "Makefile",
+        "M4",
+        "Shell",
+        "Roff"
+      ]
+    },
+    {
+      "name": "emissary",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/emissary",
+      "description": "Distributed P2P Data-driven Workflow Framework",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/emissary/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/emissary",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/emissary/zipball/5.2.0",
+      "date": {
+        "created": "2018-06-01",
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2019-02-05"
+      },
+      "languages": [
+        "Java",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Shell",
+        "Dockerfile"
+      ]
+    },
+    {
+      "name": "fractalrabbit",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/fractalrabbit",
+      "description": "Simulate realistic trajectory data seen through sporadic reporting",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/fractalrabbit/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "algorithm-analysis",
+        "probabilistic-models",
+        "simulation-modeling"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/fractalrabbit",
+      "downloadURL": "https://github.com/NationalSecurityAgency/fractalrabbit/archive/master.zip",
+      "date": {
+        "created": "2018-04-04",
+        "metadataLastUpdated": "2019-02-06",
+        "lastModified": "2019-02-06"
+      },
+      "languages": [
+        "Python",
+        "Mathematica"
+      ]
+    },
+    {
+      "name": "lemongraph",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/lemongraph",
+      "description": "Log-based transactional graph engine",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/lemongraph/blob/master/LICENSE",
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/lemongraph",
+      "downloadURL": "https://github.com/NationalSecurityAgency/lemongraph/archive/master.zip",
+      "date": {
+        "created": "2016-07-25",
+        "metadataLastUpdated": "2019-02-03",
+        "lastModified": "2019-01-10"
+      },
+      "languages": [
+        "Makefile",
+        "HTML",
+        "Python",
+        "C++",
+        "Shell",
+        "C"
+      ]
+    },
+    {
+      "name": "lemongrenade",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/lemongrenade",
+      "description": "Data-driven automation platform",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/lemongrenade/blob/master/LICENSE",
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/lemongrenade",
+      "downloadURL": "https://github.com/NationalSecurityAgency/lemongrenade/archive/master.zip",
+      "date": {
+        "created": "2016-07-25",
+        "metadataLastUpdated": "2019-01-23",
+        "lastModified": "2018-10-29"
+      },
+      "languages": [
+        "Java",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "Shell"
+      ]
+    },
+    {
+      "name": "nationalsecurityagency.github.io",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io",
+      "description": "Site for NSA's Open Source project listing",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://code.nsa.gov",
+      "downloadURL": "https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/archive/master.zip",
+      "date": {
+        "created": "2018-06-22",
+        "metadataLastUpdated": "2019-02-06",
+        "lastModified": "2019-02-06"
+      },
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ]
+    },
+    {
+      "name": "qgis-bulk-nominatim",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim",
+      "description": "Provides bulk nominatim geocoding for QGIS",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim/blob/master/LICENSE",
+            "name": "GPL-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim",
+      "downloadURL": "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim/archive/master.zip",
+      "date": {
+        "created": "2017-01-20",
+        "metadataLastUpdated": "2019-01-06",
+        "lastModified": "2018-06-22"
+      },
+      "languages": [
+        "HTML",
+        "Makefile",
+        "Python"
+      ]
+    },
+    {
+      "name": "qgis-d3datavis-plugin",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin",
+      "description": "QGIS D3 Date and Time Heatmap",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin/blob/master/LICENSE",
+            "name": "GPL-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin",
+      "downloadURL": "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin/archive/master.zip",
+      "date": {
+        "created": "2016-07-01",
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2018-03-13"
+      },
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "Makefile",
+        "Python"
+      ]
+    },
+    {
+      "name": "qgis-kmltools-plugin",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin",
+      "description": "Fast KML Importer Plugin for QGIS",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin/blob/master/LICENSE",
+            "name": "GPL-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/qgis-kmltools-plugin/zipball/3.0.6",
+      "date": {
+        "created": "2018-03-16",
+        "metadataLastUpdated": "2019-01-08",
+        "lastModified": "2018-12-10"
+      },
+      "languages": [
+        "HTML",
+        "Makefile",
+        "Python"
+      ]
+    },
+    {
+      "name": "qgis-latlontools-plugin",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin",
+      "description": "QGIS tools to capture and zoom to coordinates (including MGRS), using decimal, DMS, and WKT notation. Provides external map support and MGRS conversion routines.",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin/blob/master/LICENSE",
+            "name": "GPL-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "capture",
+        "dms",
+        "latitude",
+        "longitude",
+        "mgrs",
+        "plugin",
+        "qgis",
+        "wkt"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/qgis-latlontools-plugin/zipball/3.1.9",
+      "date": {
+        "created": "2016-04-14",
+        "metadataLastUpdated": "2019-01-21",
+        "lastModified": "2019-01-16"
+      },
+      "languages": [
+        "HTML",
+        "Makefile",
+        "Python"
+      ]
+    },
+    {
+      "name": "qgis-searchlayers-plugin",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin",
+      "description": "Enhanced textual vector layer searching in QGIS.",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin/blob/master/LICENSE",
+            "name": "GPL-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/qgis-searchlayers-plugin/zipball/0.2.2",
+      "date": {
+        "created": "2016-06-01",
+        "metadataLastUpdated": "2019-01-08",
+        "lastModified": "2018-09-06"
+      },
+      "languages": [
+        "HTML",
+        "Makefile",
+        "Python"
+      ]
+    },
+    {
+      "name": "qgis-shapetools-plugin",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin",
+      "description": "Shape Tools creates geodesic shapes and includes a number of geodesic tools for QGIS including the XY to Line tool, geodesic densify tool, geodesic line break, geodesic measure tool, geodesic measurement layer, geodesic scale, rotate and translate tool, and digitize points at an azimuth & distance tools.",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin/blob/master/LICENSE",
+            "name": "GPL-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/qgis-shapetools-plugin/zipball/3.3.3",
+      "date": {
+        "created": "2016-06-03",
+        "metadataLastUpdated": "2019-01-26",
+        "lastModified": "2019-01-17"
+      },
+      "languages": [
+        "HTML",
+        "Makefile",
+        "Python"
+      ]
+    },
+    {
+      "name": "qonduit",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/qonduit",
+      "description": "A WebSocket library for use with Apache Accumulo",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/qonduit/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "accumulo",
+        "proxy",
+        "websocket"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/NationalSecurityAgency/qonduit",
+      "downloadURL": "https://github.com/NationalSecurityAgency/qonduit/archive/master.zip",
+      "date": {
+        "created": "2017-04-07",
+        "metadataLastUpdated": "2019-01-06",
+        "lastModified": "2018-10-19"
+      },
+      "languages": [
+        "Shell",
+        "Java"
+      ]
+    },
+    {
+      "name": "SIMP",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/SIMP",
+      "description": "A system automation and configuration management stack targeted toward operational flexibility and policy compliance.",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/SIMP/blob/master/LICENSE",
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "none"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://simp-project.com",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/SIMP/zipball/6.2.0-0",
+      "date": {
+        "created": "2015-04-28",
+        "metadataLastUpdated": "2019-01-30",
+        "lastModified": "2018-10-24"
+      },
+      "languages": [
+        "Ruby"
+      ]
+    },
+    {
+      "name": "timely",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/timely",
+      "description": "Accumulo backed time series database",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/timely/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "accumulo",
+        "series-database",
+        "time-series"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://code.nsa.gov/timely/",
+      "downloadURL": "https://github.com/repos/NationalSecurityAgency/timely/zipball/0.0.5",
+      "date": {
+        "created": "2016-04-12",
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2019-02-05"
+      },
+      "languages": [
+        "Java",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ]
+    },
     {
       "name": "AppLocker-Guidance",
       "repositoryURL": "https://github.com/nsacyber/AppLocker-Guidance",
@@ -13,7 +693,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/AppLocker-Guidance/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -36,12 +716,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/AppLocker-Guidance",
       "downloadURL": "https://github.com/nsacyber/AppLocker-Guidance/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/AppLocker-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-05-01",
-        "metadataLastUpdated": "2018-10-01",
+        "metadataLastUpdated": "2019-01-17",
         "lastModified": "2018-07-10"
       },
+      "disclaimerURL": "https://github.com/nsacyber/AppLocker-Guidance/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell",
         "Batchfile"
@@ -55,7 +735,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/AtomicWatch/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -77,12 +757,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/AtomicWatch",
       "downloadURL": "https://github.com/nsacyber/AtomicWatch/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/AtomicWatch/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-06-08",
-        "metadataLastUpdated": "2018-05-13",
+        "metadataLastUpdated": "2019-01-13",
         "lastModified": "2017-06-10"
       },
+      "disclaimerURL": "https://github.com/nsacyber/AtomicWatch/blob/master/DISCLAIMER.md",
       "languages": [
         "Python"
       ]
@@ -95,7 +775,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/BitLocker-Guidance/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -122,12 +802,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/BitLocker-Guidance",
       "downloadURL": "https://github.com/nsacyber/BitLocker-Guidance/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/BitLocker-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2018-02-12",
-        "metadataLastUpdated": "2018-08-23",
+        "metadataLastUpdated": "2019-01-09",
         "lastModified": "2018-07-10"
       },
+      "disclaimerURL": "https://github.com/nsacyber/BitLocker-Guidance/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell",
         "HTML"
@@ -165,12 +845,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness",
       "downloadURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-05-23",
-        "metadataLastUpdated": "2018-08-31",
+        "metadataLastUpdated": "2019-01-12",
         "lastModified": "2016-06-02"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell",
         "Batchfile",
@@ -185,7 +865,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/CodeGov/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -207,12 +887,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/CodeGov",
       "downloadURL": "https://github.com/nsacyber/CodeGov/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/CodeGov/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-10-17",
-        "metadataLastUpdated": "2018-09-06",
-        "lastModified": "2018-09-06"
+        "metadataLastUpdated": "2019-01-16",
+        "lastModified": "2019-01-16"
       },
+      "disclaimerURL": "https://github.com/nsacyber/CodeGov/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell"
       ]
@@ -225,7 +905,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -237,20 +917,21 @@
         "control-flow-integrity"
       ],
       "contact": {
-        "email": "control-flow-integrity@nsa.gov",
+        "email": "cybersecurity_requests@nsa.gov",
         "URL": "https://www.nsa.gov/about/contact-us/",
-        "name": "control-flow-integrity"
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
       },
       "status": "Archival",
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Control-Flow-Integrity",
       "downloadURL": "https://github.com/repos/nsacyber/Control-Flow-Integrity/zipball/v1.0.0",
-      "disclaimerURL": "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-07-23",
-        "metadataLastUpdated": "2018-09-10",
+        "metadataLastUpdated": "2019-02-03",
         "lastModified": "2017-05-10"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Control-Flow-Integrity/blob/master/DISCLAIMER.md",
       "languages": [
         "C"
       ]
@@ -263,7 +944,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -288,12 +969,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM",
       "downloadURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-10-19",
-        "metadataLastUpdated": "2018-09-04",
+        "metadataLastUpdated": "2019-01-20",
         "lastModified": "2018-09-04"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell",
         "Shell"
@@ -307,7 +988,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Driver-Collider/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -327,12 +1008,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Driver-Collider",
       "downloadURL": "https://github.com/nsacyber/Driver-Collider/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Driver-Collider/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-10-17",
-        "metadataLastUpdated": "2018-08-23",
+        "metadataLastUpdated": "2019-01-05",
         "lastModified": "2017-12-18"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Driver-Collider/blob/master/DISCLAIMER.md",
       "languages": [
         "C",
         "PowerShell",
@@ -347,7 +1028,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -368,12 +1049,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Event-Forwarding-Guidance",
       "downloadURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-01-09",
-        "metadataLastUpdated": "2018-10-03",
-        "lastModified": "2017-12-01"
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2018-12-10"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell"
       ]
@@ -386,7 +1067,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/goSecure/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -408,12 +1089,12 @@
       "vcs": "git",
       "homepageURL": "https://nsacyber.github.io/goSecure/",
       "downloadURL": "https://github.com/nsacyber/goSecure/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/goSecure/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-04-28",
-        "metadataLastUpdated": "2018-10-02",
+        "metadataLastUpdated": "2019-02-05",
         "lastModified": "2017-06-27"
       },
+      "disclaimerURL": "https://github.com/nsacyber/goSecure/blob/master/DISCLAIMER.md",
       "languages": [
         "OpenEdge ABL",
         "HTML",
@@ -430,7 +1111,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/GRASSMARLIN/blob/master/LICENSE.md",
-            "name": "LGPL-3.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -459,12 +1140,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/GRASSMARLIN",
       "downloadURL": "https://github.com/repos/nsacyber/GRASSMARLIN/zipball/v3.2.1",
-      "disclaimerURL": "https://github.com/nsacyber/GRASSMARLIN/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-12-14",
-        "metadataLastUpdated": "2018-10-02",
+        "metadataLastUpdated": "2019-02-06",
         "lastModified": "2018-03-09"
       },
+      "disclaimerURL": "https://github.com/nsacyber/GRASSMARLIN/blob/master/DISCLAIMER.md",
       "languages": [
         "HTML",
         "Java",
@@ -479,7 +1160,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -511,12 +1192,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance",
       "downloadURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2018-01-10",
-        "metadataLastUpdated": "2018-09-23",
-        "lastModified": "2018-07-30"
-      }
+        "metadataLastUpdated": "2019-02-06",
+        "lastModified": "2019-02-05"
+      },
+      "disclaimerURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/blob/master/DISCLAIMER.md"
     },
     {
       "name": "HIRS",
@@ -526,7 +1207,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/HIRS/blob/master/LICENSE.md",
-            "name": "Apache-2.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -549,24 +1230,24 @@
       "status": "Production",
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/HIRS",
-      "downloadURL": "https://github.com/repos/nsacyber/HIRS/zipball/v1.0.1",
-      "disclaimerURL": "https://github.com/nsacyber/HIRS/blob/master/DISCLAIMER.md",
+      "downloadURL": "https://github.com/repos/nsacyber/HIRS/zipball/v1.0.3",
       "date": {
         "created": "2018-01-19",
-        "metadataLastUpdated": "2018-10-05",
-        "lastModified": "2018-10-05"
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2019-02-05"
       },
+      "disclaimerURL": "https://github.com/nsacyber/HIRS/blob/master/DISCLAIMER.md",
       "languages": [
         "Makefile",
         "Java",
+        "Roff",
         "CSS",
         "JavaScript",
-        "Roff",
+        "Python",
         "C++",
         "Shell",
         "CMake",
-        "Ruby",
-        "Dockerfile"
+        "Ruby"
       ]
     },
     {
@@ -577,7 +1258,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -604,12 +1285,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester",
       "downloadURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-10-17",
-        "metadataLastUpdated": "2018-09-26",
-        "lastModified": "2018-09-26"
+        "metadataLastUpdated": "2019-01-22",
+        "lastModified": "2019-01-21"
       },
+      "disclaimerURL": "https://github.com/nsacyber/HTTP-Connectivity-Tester/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell"
       ]
@@ -622,7 +1303,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/LOCKLEVEL/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -644,12 +1325,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/LOCKLEVEL",
       "downloadURL": "https://github.com/nsacyber/LOCKLEVEL/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/LOCKLEVEL/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-05-19",
-        "metadataLastUpdated": "2018-08-23",
+        "metadataLastUpdated": "2019-01-09",
         "lastModified": "2016-06-08"
       },
+      "disclaimerURL": "https://github.com/nsacyber/LOCKLEVEL/blob/master/DISCLAIMER.md",
       "languages": [
         "Objective-C",
         "CSS",
@@ -671,7 +1352,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Maplesyrup/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -695,12 +1376,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Maplesyrup",
       "downloadURL": "https://github.com/nsacyber/Maplesyrup/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Maplesyrup/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2015-07-24",
-        "metadataLastUpdated": "2018-06-21",
+        "metadataLastUpdated": "2019-02-03",
         "lastModified": "2016-06-01"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Maplesyrup/blob/master/DISCLAIMER.md",
       "languages": [
         "Makefile",
         "M4",
@@ -719,7 +1400,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/netfil/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -743,12 +1424,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/netfil",
       "downloadURL": "https://github.com/nsacyber/netfil/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/netfil/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-02-23",
-        "metadataLastUpdated": "2018-10-04",
+        "metadataLastUpdated": "2019-01-16",
         "lastModified": "2017-03-16"
       },
+      "disclaimerURL": "https://github.com/nsacyber/netfil/blob/master/DISCLAIMER.md",
       "languages": [
         "C",
         "Objective-C",
@@ -764,7 +1445,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/netman/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -788,15 +1469,52 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/netman",
       "downloadURL": "https://github.com/nsacyber/netman/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/netman/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-11-18",
-        "metadataLastUpdated": "2018-10-04",
+        "metadataLastUpdated": "2019-01-21",
         "lastModified": "2016-11-29"
       },
+      "disclaimerURL": "https://github.com/nsacyber/netman/blob/master/DISCLAIMER.md",
       "languages": [
         "Makefile",
         "C"
+      ]
+    },
+    {
+      "name": "nsacyber.github.io",
+      "repositoryURL": "https://github.com/nsacyber/nsacyber.github.io",
+      "description": "NSA Cybersecurity. Formerly known as NSA Information Assurance and the Information Assurance Directorate",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/nsacyber.github.io/blob/master/LICENSE.md",
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "github-pages"
+      ],
+      "contact": {
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://nsacyber.github.io",
+      "downloadURL": "https://github.com/repos/nsacyber/nsacyber.github.io/zipball/20190116",
+      "date": {
+        "created": "2017-05-12",
+        "metadataLastUpdated": "2019-01-31",
+        "lastModified": "2019-01-31"
+      },
+      "disclaimerURL": "https://github.com/nsacyber/nsacyber.github.io/blob/master/DISCLAIMER.md",
+      "languages": [
+        "PowerShell"
       ]
     },
     {
@@ -828,16 +1546,17 @@
       "status": "Production",
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/HIRS",
-      "downloadURL": "https://github.com/repos/nsacyber/paccor/zipball/v1.0.0r2",
-      "disclaimerURL": "https://github.com/nsacyber/paccor/blob/master/DISCLAIMER.md",
+      "downloadURL": "https://github.com/repos/nsacyber/paccor/zipball/v1.0.6r3",
       "date": {
         "created": "2018-09-28",
-        "metadataLastUpdated": "2018-10-02",
-        "lastModified": "2018-10-02"
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2019-02-05"
       },
+      "disclaimerURL": "https://github.com/nsacyber/paccor/blob/master/DISCLAIMER.md",
       "languages": [
-        "Shell",
-        "Java"
+        "PowerShell",
+        "Java",
+        "Shell"
       ]
     },
     {
@@ -848,7 +1567,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -869,12 +1588,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance",
       "downloadURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2014-12-29",
-        "metadataLastUpdated": "2018-10-03",
+        "metadataLastUpdated": "2019-01-21",
         "lastModified": "2016-11-25"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Pass-the-Hash-Guidance/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell"
       ]
@@ -887,7 +1606,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/serial2pcap/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -912,12 +1631,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/serial2pcap",
       "downloadURL": "https://github.com/nsacyber/serial2pcap/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/serial2pcap/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-10-02",
-        "metadataLastUpdated": "2018-05-24",
+        "metadataLastUpdated": "2019-02-04",
         "lastModified": "2017-10-25"
       },
+      "disclaimerURL": "https://github.com/nsacyber/serial2pcap/blob/master/DISCLAIMER.md",
       "languages": [
         "Python"
       ]
@@ -930,7 +1649,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/simon-speck/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -956,12 +1675,12 @@
       "vcs": "git",
       "homepageURL": "https://nsacyber.github.io/simon-speck/",
       "downloadURL": "https://github.com/nsacyber/simon-speck/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/simon-speck/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-07-01",
-        "metadataLastUpdated": "2018-10-02",
-        "lastModified": "2018-08-27"
-      }
+        "metadataLastUpdated": "2019-02-02",
+        "lastModified": "2019-01-18"
+      },
+      "disclaimerURL": "https://github.com/nsacyber/simon-speck/blob/master/DISCLAIMER.md"
     },
     {
       "name": "simon-speck-supercop",
@@ -971,7 +1690,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/simon-speck-supercop/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -998,12 +1717,12 @@
       "vcs": "git",
       "homepageURL": "https://nsacyber.github.io/simon-speck",
       "downloadURL": "https://github.com/nsacyber/simon-speck-supercop/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/simon-speck-supercop/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-07-01",
-        "metadataLastUpdated": "2018-06-13",
+        "metadataLastUpdated": "2018-12-31",
         "lastModified": "2018-06-13"
       },
+      "disclaimerURL": "https://github.com/nsacyber/simon-speck-supercop/blob/master/DISCLAIMER.md",
       "languages": [
         "q",
         "GDB",
@@ -1061,12 +1780,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
       "downloadURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-05-19",
-        "metadataLastUpdated": "2018-10-02",
+        "metadataLastUpdated": "2019-01-05",
         "lastModified": "2016-05-25"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations/blob/master/DISCLAIMER.md",
       "languages": [
         "Batchfile",
         "JavaScript",
@@ -1082,7 +1801,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/unfetter/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -1101,12 +1820,12 @@
       "vcs": "git",
       "homepageURL": "http://unfetter.io/",
       "downloadURL": "https://github.com/nsacyber/unfetter/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/unfetter/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-09-12",
-        "metadataLastUpdated": "2018-09-18",
-        "lastModified": "2018-08-22"
-      }
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2018-12-19"
+      },
+      "disclaimerURL": "https://github.com/nsacyber/unfetter/blob/master/DISCLAIMER.md"
     },
     {
       "name": "WALKOFF",
@@ -1116,7 +1835,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/WALKOFF/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -1143,27 +1862,31 @@
         "workflow"
       ],
       "contact": {
-        "email": "walkoff@nsa.gov",
+        "email": "cybersecurity_requests@nsa.gov",
         "URL": "https://www.nsa.gov/about/contact-us/",
-        "name": "walkoff"
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
       },
-      "status": "Beta",
+      "status": "Production",
       "vcs": "git",
       "homepageURL": "https://nsacyber.github.io/WALKOFF/",
-      "downloadURL": "https://github.com/repos/nsacyber/WALKOFF/zipball/v0.8.5",
-      "disclaimerURL": "https://github.com/nsacyber/WALKOFF/blob/master/DISCLAIMER.md",
+      "downloadURL": "https://github.com/repos/nsacyber/WALKOFF/zipball/v0.9.4",
       "date": {
         "created": "2016-06-08",
-        "metadataLastUpdated": "2018-10-04",
-        "lastModified": "2018-10-03"
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2019-02-05"
       },
+      "disclaimerURL": "https://github.com/nsacyber/WALKOFF/blob/master/DISCLAIMER.md",
       "languages": [
         "Mako",
+        "Smarty",
         "CSS",
         "JavaScript",
         "HTML",
         "Python",
-        "TypeScript"
+        "Shell",
+        "TypeScript",
+        "Dockerfile"
       ]
     },
     {
@@ -1174,7 +1897,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/WALKOFF-Apps/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -1196,22 +1919,24 @@
         "walkoff-apps"
       ],
       "contact": {
-        "email": "walkoff@nsa.gov",
+        "email": "cybersecurity_requests@nsa.gov",
         "URL": "https://www.nsa.gov/about/contact-us/",
-        "name": "walkoff"
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
       },
-      "status": "Beta",
+      "status": "Production",
       "vcs": "git",
       "homepageURL": "https://nsacyber.github.io/WALKOFF",
       "downloadURL": "https://github.com/nsacyber/WALKOFF-Apps/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/WALKOFF-Apps/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2017-05-16",
-        "metadataLastUpdated": "2018-10-01",
-        "lastModified": "2018-09-14"
+        "metadataLastUpdated": "2019-01-31",
+        "lastModified": "2019-01-28"
       },
+      "disclaimerURL": "https://github.com/nsacyber/WALKOFF-Apps/blob/master/DISCLAIMER.md",
       "languages": [
         "Makefile",
+        "YARA",
         "CSS",
         "JavaScript",
         "HTML",
@@ -1228,7 +1953,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -1248,12 +1973,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Windows-Event-Log-Messages",
       "downloadURL": "https://github.com/repos/nsacyber/Windows-Event-Log-Messages/zipball/v2.3.0.0-20170406",
-      "disclaimerURL": "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-07-19",
-        "metadataLastUpdated": "2018-09-30",
-        "lastModified": "2018-07-10"
+        "metadataLastUpdated": "2019-02-05",
+        "lastModified": "2019-01-20"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Windows-Event-Log-Messages/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell",
         "Batchfile",
@@ -1268,7 +1993,7 @@
         "licenses": [
           {
             "URL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/LICENSE.md",
-            "name": "CC0-1.0"
+            "name": "NOASSERTION"
           }
         ],
         "usageType": "openSource"
@@ -1302,12 +2027,12 @@
       "vcs": "git",
       "homepageURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline",
       "downloadURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/archive/master.zip",
-      "disclaimerURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/DISCLAIMER.md",
       "date": {
         "created": "2016-02-26",
-        "metadataLastUpdated": "2018-10-05",
+        "metadataLastUpdated": "2019-02-06",
         "lastModified": "2018-09-12"
       },
+      "disclaimerURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/blob/master/DISCLAIMER.md",
       "languages": [
         "PowerShell",
         "HTML"
