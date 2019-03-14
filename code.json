@@ -211,6 +211,44 @@
       ]
     },
     {
+      "name": "ghidra",
+      "repositoryURL": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/NationalSecurityAgency/ghidra/blob/master/LICENSE",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "software-analysis",
+        "disassembler",
+        "reverse-engineering"
+      ],
+      "contact": {
+        "email": "tech_transfer@nsa.gov",
+        "URL": "https://www.nsa.gov/what-we-do/research/technology-transfer/",
+        "name": "NSA Technology Transfer Program",
+        "phone": "1-866-680-4539"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://www.nsa.gov/ghidra",
+      "downloadURL": "https://ghidra-sre.org/ghidra_9.0_PUBLIC_20190228.zip",
+      "date": {
+        "created": "2019-03-14",
+        "metadataLastUpdated": "2019-03-14",
+        "lastModified": "2019-03-14"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
       "name": "lemongraph",
       "repositoryURL": "https://github.com/NationalSecurityAgency/lemongraph",
       "description": "Log-based transactional graph engine",
