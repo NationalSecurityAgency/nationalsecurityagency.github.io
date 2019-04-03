@@ -1,0 +1,119 @@
+.card-deck {
+  display: block;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
+
+  .card {
+    display: block;
+    display: flex;
+    flex: 0 0 350px;
+    flex-direction: column;
+    float: left;
+    margin-bottom: 30px;
+    min-width: 300px;
+
+    &:not(:last-child) {
+      margin-right: 15px;
+    }
+  }
+  
+
+
+}
+
+.card {
+  border: 3px solid #efefef;
+  border-radius: 25px;
+  overflow: hidden;
+  position: relative;
+  width: 20rem;
+  background-color: #ffffff;
+  margin: 0px;
+
+  .card-img-top {
+    display: block;
+    height: 200px;
+    width: 100%;
+
+  }
+  .card-title{
+    cursor: pointer;
+    text-align: center;
+    background-color: #204478;
+    overflow: hidden;
+    color: #ffffff; 
+    overflow-wrap: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+ .card-title:hover {
+  background-color: #152e51;
+  }
+  .card-body {
+    flex: 1 1 auto;
+    padding: 2rem;
+    background-color: #ffffff;
+    @media (max-width : 730px){
+      display: none;
+    } 
+    @media (min-width:730px){
+      display: block !important;
+    }
+    overflow: hidden;
+    :first-child {
+      margin-top: 0;
+    }
+
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+  
+}
+
+  .card-footer {
+    padding: 2rem;
+    background-color: #ffffff;
+    overflow: hidden;
+    text-align: center;
+  }
+  .card-link {
+    color: black !important;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  .card-read-more-link {
+    display: inline-block;
+    text-decoration: none;
+
+    svg {
+      display: inline-block;
+      fill: $color-primary;
+      height: 12px;
+      margin-left: .5rem;
+      margin-top: -2px;
+      vertical-align: middle;
+      width: 12px;
+    }
+  }
+.myInput {
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 3px solid #515151;
+  margin-bottom: 6rem;
+  text-align:center;
+  margin-right:auto;
+  margin-left:auto;
+  @media (max-width : 450px){
+          margin-bottom: 3rem;
+      } 
+}
+

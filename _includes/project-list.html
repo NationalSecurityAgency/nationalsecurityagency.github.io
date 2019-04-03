@@ -1,0 +1,72 @@
+<input type="text" class="myInput" id="Input" onkeyup="filterFunction()" placeholder="Search for repos..." title="Type in keyword" aria-label="repo search">
+<div class="card-deck" id="card-deck">
+  {% assign repos = site.data.repos.list | concat: site.data.temp.list | sort_natural:"name" %}
+
+  {% for item in repos %} 
+    {% unless site.data.ignore.toc contains item.html_url %}
+      <div class="card">
+        <div class="card-title">
+          <h3> {{ item.name }} </h3>
+        </div>
+        <div class="card-body" >
+        <p class="card-text">{{ item.description }}</p>
+        </div>
+        <div class="card-footer">
+          {% if item.html_url != "" %}
+          <a class="card-link" href="{{item.html_url}}" title="GitHub Page" target="_blank"> <span class="fab fa-github"></span></a>
+          {% endif %}
+          {% if item.forks_count >0 %}
+          <a class="card-link" href="{{item.html_url}}/network" title="Forks" target="_blank"> <span class="fas fa-code-branch"></span> {{item.forks_count}}</a>
+          {% endif %}
+          {% if item.stargazers_count >0 %}
+          <a class="card-link" href="{{item.html_url}}/stargazers" title="Stargazers" target="_blank"> <span class="fas fa-star"></span> {{item.stargazers_count}}</a>
+          {% endif %}
+          {% if item.homepage != "" and item.homepage != nil %}
+          <a class="card-link" href="{{item.homepage}}" title="Main Page" target="_blank"> <span class="fas fa-globe-americas"></span></a>
+          {% endif %}
+        </div>
+      </div>
+    {% endunless %}
+  {% endfor %}
+</div>
+
+<script>
+function filterFunction() {
+    var input, filter, cardDeck, card, cardTitle, cardDis, i, txtValue;
+    input = document.getElementById("Input");
+    filter = input.value.toUpperCase();
+    cardDeck = document.getElementById("card-deck");
+    card = cardDeck.getElementsByClassName("card");
+    for (i = 0; i < card.length; i++) {
+        cardTitle = card[i].getElementsByClassName("card-title")[0].textContent || card[i].getElementsByClassName("card-body")[0].innerText;
+        cardDis = card[i].getElementsByClassName("card-body")[0].textContent || card[i].getElementsByClassName("card-body")[0].innerText;
+        txtValue = cardTitle + " " + cardDis;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            card[i].style.display = "";
+        } else {
+            card[i].style.display = "none";
+        }
+    }
+}
+</script>
+<script>
+var acc = document.getElementsByClassName("card-title");
+var i;
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    var foot = panel.nextElementSibling;
+    var link = foot.children[0].href;
+    if (window.matchMedia("(min-width: 730px)").matches){
+        window.open(link, "_blank");
+      }
+    if (panel.style.display === "block") {
+        panel.style.display = "none";
+    } 
+    else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>

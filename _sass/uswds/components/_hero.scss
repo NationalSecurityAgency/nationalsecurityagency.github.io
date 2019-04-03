@@ -1,0 +1,39 @@
+// Hero feature
+// ==========================
+
+.usa-hero {
+  @include padding($site-margins null);
+  background-color: #204478;
+  background-position: center;
+  background-size: 1114px 431px;
+  background-repeat: no-repeat;
+  background-position: left;
+  
+  .usa-button {
+    color: $color-white;
+  }
+}
+
+.usa-section-dark {
+  .usa-hero-link {
+    color: $color-primary-alt;
+  }
+}
+
+.usa-hero-callout {
+  background-color: $color-primary-darkest;
+  padding: 3rem;
+  opacity: 0.9;
+  @include media($small-screen) {
+    max-width: 30rem;
+  }
+
+  > *:first-child {
+    @include margin(0 null $spacing-medium null);
+  }
+}
+
+.usa-hero-callout-alt {
+  color: $color-white;
+  display: block;
+}
