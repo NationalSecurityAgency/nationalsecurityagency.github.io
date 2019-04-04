@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "author": "18F",
+  "license": "CC0-1.0",
+  "scripts": {
+    "postinstall": "bundle",
+    "start": "bundle exec jekyll serve",
+    "update-uswds": "npm run update-assets && npm run update-sass",
+    "update-assets": "rsync -avr --delete node_modules/uswds/dist/ assets/uswds/ --exclude=/*.md --exclude=/*.zip --exclude=/css --exclude=/scss",
+    "update-sass": "rsync -avr --delete node_modules/uswds/src/stylesheets/ _sass/uswds/"
+  },
+  "dependencies": {
+    "uswds": "^1.6.0"
+  },
+  "devDependencies": {
+    "cached-path-relative": "^1.0.2"
+  }
+}

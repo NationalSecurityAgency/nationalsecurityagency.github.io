@@ -1,0 +1,57 @@
+.usa-header {
+  @if variable-exists(header-bg) {
+    background-color: $header-bg;
+  }
+
+  .usa-logo {
+    a {
+      @if variable-exists(header-title) {
+        color: $header-title;
+      }
+      vertical-align: middle;
+    }
+
+    .usa-logo-img {
+      float: left;
+      height: 4rem;
+      margin-top: 8.5px;
+      margin-right: 10px;
+      
+      @include media($nav-width) {
+        height: 2.0rem;
+      }
+      @media (max-width : 950px){
+        margin-top: 8.75px;
+        margin-right: 10px;
+      } 
+      @media (max-width : 450px){
+          margin-top: 0em;
+          margin-right: 10px;
+      } 
+      & + .usa-logo-text {
+        float: left;
+        min-height: 40px;
+
+      }
+    }
+  } 
+
+  &.usa-header-extended .usa-logo-img {
+    @include media($nav-width) {
+      height: 7.5rem;
+    }
+  }
+
+  .usa-nav-secondary-links {
+    a {
+      @if variable-exists(header-link) {
+        color: $header-link;
+      }
+      &:hover {
+        @if variable-exists(header-link-hover) {
+          color: $header-link-hover;
+        }
+      }
+    }
+  }
+}
