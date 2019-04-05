@@ -1,4 +1,4 @@
-This Site Was built by using the 18F/uswds Jekyll theme. For more information vist [U.S. Web Design System](https://designsystem.digital.gov).
+This Site Was built by using the 18F/uswds Jekyll theme. For more information visit [U.S. Web Design System](https://designsystem.digital.gov).
 
 You can view the original theme and documentation [HERE](https://github.com/18F/uswds-jekyll).
 
