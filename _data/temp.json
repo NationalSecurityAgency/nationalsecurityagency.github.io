@@ -1,15 +1,13 @@
 {
-    "example": [
-    	 {
-            "name": "A test",
-            "html_url": "github page",
-            "forks_count": 0,
-            "stargazers_count": 0,
-            "description": "example text",
-            "homepage": "website or non github repository"
-        },
-    ],
-    "list": [ 
-    	
-    ]
+  "example": [
+    {
+      "name": "A test",
+      "html_url": "github page",
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "description": "example text",
+      "homepage": "website or non github repository"
+    }
+  ],
+  "list": []
 }
