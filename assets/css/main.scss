@@ -91,3 +91,9 @@ $image-path: '../uswds/img';
 {% if site.site_width %}
   @import 'components/site-width';
 {% endif %}
+
+.notification-banner {
+  background-color: #D40000;
+  color: #FFF;
+  text-align: center;
+}

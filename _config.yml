@@ -1,5 +1,8 @@
 title: Open Source @ NSA
 description: THE FOLLOWING OPEN SOURCE SOFTWARE was developed within the National Security Agency and is now available to the public.
+notification_banner: true
+notification_message: NSA is back at OSCON! Stop by our booth for info on ghidra, open source, and careers!
+
 # GitHub information
 # This is used for adding an edit this page link to the footer
 #github:
