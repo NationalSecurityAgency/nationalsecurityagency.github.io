@@ -32,7 +32,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/SIMP/archive/master.zip",
       "date": {
         "created": "2015-04-28",
-        "metadataLastUpdated": "2019-05-26",
+        "metadataLastUpdated": "2019-07-09",
         "lastModified": "2019-05-24"
       },
       "languages": [
@@ -70,8 +70,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/timely/archive/master.zip",
       "date": {
         "created": "2016-04-12",
-        "metadataLastUpdated": "2019-06-03",
-        "lastModified": "2019-05-30"
+        "metadataLastUpdated": "2019-06-29",
+        "lastModified": "2019-06-19"
       },
       "languages": [
         "Java",
@@ -124,8 +124,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin/archive/master.zip",
       "date": {
         "created": "2016-04-14",
-        "metadataLastUpdated": "2019-06-03",
-        "lastModified": "2019-05-29"
+        "metadataLastUpdated": "2019-06-29",
+        "lastModified": "2019-06-27"
       },
       "languages": [
         "Python",
@@ -160,7 +160,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin/archive/master.zip",
       "date": {
         "created": "2016-06-01",
-        "metadataLastUpdated": "2019-05-17",
+        "metadataLastUpdated": "2019-06-14",
         "lastModified": "2019-02-12"
       },
       "languages": [
@@ -196,13 +196,15 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin/archive/master.zip",
       "date": {
         "created": "2016-06-03",
-        "metadataLastUpdated": "2019-05-17",
-        "lastModified": "2019-04-26"
+        "metadataLastUpdated": "2019-06-25",
+        "lastModified": "2019-06-25"
       },
       "languages": [
         "Python",
         "Makefile",
-        "HTML"
+        "HTML",
+        "QMake",
+        "Batchfile"
       ]
     },
     {
@@ -232,7 +234,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin/archive/master.zip",
       "date": {
         "created": "2016-07-01",
-        "metadataLastUpdated": "2019-05-21",
+        "metadataLastUpdated": "2019-06-14",
         "lastModified": "2018-03-13"
       },
       "languages": [
@@ -269,8 +271,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/lemongraph/archive/master.zip",
       "date": {
         "created": "2016-07-25",
-        "metadataLastUpdated": "2019-06-02",
-        "lastModified": "2019-05-22"
+        "metadataLastUpdated": "2019-07-09",
+        "lastModified": "2019-07-08"
       },
       "languages": [
         "Python",
@@ -308,8 +310,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/lemongrenade/archive/master.zip",
       "date": {
         "created": "2016-07-25",
-        "metadataLastUpdated": "2019-06-02",
-        "lastModified": "2019-04-23"
+        "metadataLastUpdated": "2019-07-04",
+        "lastModified": "2019-06-05"
       },
       "languages": [
         "Java",
@@ -347,8 +349,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/DCP/archive/master.zip",
       "date": {
         "created": "2016-08-05",
-        "metadataLastUpdated": "2019-06-02",
-        "lastModified": "2019-03-31"
+        "metadataLastUpdated": "2019-07-08",
+        "lastModified": "2019-06-06"
       },
       "languages": [
         "C",
@@ -385,7 +387,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim/archive/master.zip",
       "date": {
         "created": "2017-01-20",
-        "metadataLastUpdated": "2019-05-04",
+        "metadataLastUpdated": "2019-06-07",
         "lastModified": "2018-06-22"
       },
       "languages": [
@@ -425,7 +427,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qonduit/archive/master.zip",
       "date": {
         "created": "2017-04-07",
-        "metadataLastUpdated": "2019-06-02",
+        "metadataLastUpdated": "2019-07-09",
         "lastModified": "2019-05-23"
       },
       "languages": [
@@ -464,8 +466,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/datawave/archive/master.zip",
       "date": {
         "created": "2018-01-10",
-        "metadataLastUpdated": "2019-06-03",
-        "lastModified": "2019-05-31"
+        "metadataLastUpdated": "2019-07-11",
+        "lastModified": "2019-07-11"
       },
       "languages": [
         "Java",
@@ -506,7 +508,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin/archive/master.zip",
       "date": {
         "created": "2018-03-16",
-        "metadataLastUpdated": "2019-05-29",
+        "metadataLastUpdated": "2019-06-29",
         "lastModified": "2018-12-10"
       },
       "languages": [
@@ -546,7 +548,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/fractalrabbit/archive/master.zip",
       "date": {
         "created": "2018-04-04",
-        "metadataLastUpdated": "2019-05-26",
+        "metadataLastUpdated": "2019-06-29",
         "lastModified": "2019-04-30"
       },
       "languages": [
@@ -620,8 +622,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/emissary/archive/master.zip",
       "date": {
         "created": "2018-06-01",
-        "metadataLastUpdated": "2019-05-29",
-        "lastModified": "2019-05-20"
+        "metadataLastUpdated": "2019-06-29",
+        "lastModified": "2019-07-09"
       },
       "languages": [
         "Java",
@@ -659,8 +661,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io/archive/master.zip",
       "date": {
         "created": "2018-06-22",
-        "metadataLastUpdated": "2019-05-30",
-        "lastModified": "2019-06-03"
+        "metadataLastUpdated": "2019-07-05",
+        "lastModified": "2019-06-04"
       },
       "languages": [
         "CSS",
@@ -696,7 +698,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/enigma-simulator/archive/master.zip",
       "date": {
         "created": "2018-08-01",
-        "metadataLastUpdated": "2019-06-02",
+        "metadataLastUpdated": "2019-07-01",
         "lastModified": "2019-03-29"
       },
       "languages": [
@@ -735,8 +737,8 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/ghidra/archive/master.zip",
       "date": {
         "created": "2019-03-01",
-        "metadataLastUpdated": "2019-06-04",
-        "lastModified": "2019-06-04"
+        "metadataLastUpdated": "2019-07-11",
+        "lastModified": "2019-07-11"
       },
       "languages": [
         "Java",
@@ -786,7 +788,7 @@
       "downloadURL": "https://github.com/NationalSecurityAgency/ghidra-data/archive/master.zip",
       "date": {
         "created": "2019-04-02",
-        "metadataLastUpdated": "2019-06-01",
+        "metadataLastUpdated": "2019-06-30",
         "lastModified": "2019-04-03"
       },
       "languages": []
@@ -860,7 +862,7 @@
       "downloadURL": "https://github.com/nsacyber/Event-Forwarding-Guidance/archive/master.zip",
       "date": {
         "created": "2015-01-09",
-        "metadataLastUpdated": "2019-06-03",
+        "metadataLastUpdated": "2019-07-11",
         "lastModified": "2019-04-17"
       },
       "languages": [
@@ -900,7 +902,7 @@
       "downloadURL": "https://github.com/nsacyber/AppLocker-Guidance/archive/master.zip",
       "date": {
         "created": "2015-05-01",
-        "metadataLastUpdated": "2019-06-04",
+        "metadataLastUpdated": "2019-07-02",
         "lastModified": "2018-07-10"
       },
       "languages": [
@@ -1032,7 +1034,7 @@
       "downloadURL": "https://github.com/nsacyber/GRASSMARLIN/archive/master.zip",
       "date": {
         "created": "2015-12-14",
-        "metadataLastUpdated": "2019-05-28",
+        "metadataLastUpdated": "2019-07-05",
         "lastModified": "2018-03-09"
       },
       "languages": [
@@ -1085,7 +1087,7 @@
       "downloadURL": "https://github.com/nsacyber/Windows-Secure-Host-Baseline/archive/master.zip",
       "date": {
         "created": "2016-02-26",
-        "metadataLastUpdated": "2019-06-02",
+        "metadataLastUpdated": "2019-07-06",
         "lastModified": "2018-09-12"
       },
       "languages": [
@@ -1125,7 +1127,7 @@
       "downloadURL": "https://github.com/nsacyber/goSecure/archive/master.zip",
       "date": {
         "created": "2016-04-28",
-        "metadataLastUpdated": "2019-05-30",
+        "metadataLastUpdated": "2019-07-04",
         "lastModified": "2017-06-27"
       },
       "languages": [
@@ -1168,7 +1170,7 @@
       "downloadURL": "https://github.com/nsacyber/LOCKLEVEL/archive/master.zip",
       "date": {
         "created": "2016-05-19",
-        "metadataLastUpdated": "2019-06-02",
+        "metadataLastUpdated": "2019-06-16",
         "lastModified": "2016-06-08"
       },
       "languages": [
@@ -1318,8 +1320,8 @@
       "downloadURL": "https://github.com/nsacyber/WALKOFF/archive/master.zip",
       "date": {
         "created": "2016-06-08",
-        "metadataLastUpdated": "2019-06-02",
-        "lastModified": "2019-06-03"
+        "metadataLastUpdated": "2019-07-10",
+        "lastModified": "2019-07-10"
       },
       "languages": [
         "Python",
@@ -1367,7 +1369,7 @@
       "downloadURL": "https://github.com/nsacyber/simon-speck/archive/master.zip",
       "date": {
         "created": "2016-07-01",
-        "metadataLastUpdated": "2019-05-02",
+        "metadataLastUpdated": "2019-06-18",
         "lastModified": "2019-03-06"
       },
       "languages": []
@@ -1466,7 +1468,7 @@
       "downloadURL": "https://github.com/nsacyber/Windows-Event-Log-Messages/archive/master.zip",
       "date": {
         "created": "2016-07-19",
-        "metadataLastUpdated": "2019-06-03",
+        "metadataLastUpdated": "2019-07-01",
         "lastModified": "2019-03-07"
       },
       "languages": [
@@ -1585,7 +1587,7 @@
       "downloadURL": "https://github.com/nsacyber/netfil/archive/master.zip",
       "date": {
         "created": "2017-02-23",
-        "metadataLastUpdated": "2019-06-02",
+        "metadataLastUpdated": "2019-06-21",
         "lastModified": "2017-03-16"
       },
       "languages": [
@@ -1624,8 +1626,8 @@
       "downloadURL": "https://github.com/nsacyber/nsacyber.github.io/archive/master.zip",
       "date": {
         "created": "2017-05-12",
-        "metadataLastUpdated": "2019-06-03",
-        "lastModified": "2019-01-31"
+        "metadataLastUpdated": "2019-07-10",
+        "lastModified": "2019-06-14"
       },
       "languages": [
         "PowerShell"
@@ -1672,7 +1674,7 @@
       "downloadURL": "https://github.com/nsacyber/WALKOFF-Apps/archive/master.zip",
       "date": {
         "created": "2017-05-16",
-        "metadataLastUpdated": "2019-05-22",
+        "metadataLastUpdated": "2019-06-18",
         "lastModified": "2019-03-14"
       },
       "languages": [
@@ -1718,7 +1720,7 @@
       "downloadURL": "https://github.com/nsacyber/AtomicWatch/archive/master.zip",
       "date": {
         "created": "2017-06-08",
-        "metadataLastUpdated": "2019-04-14",
+        "metadataLastUpdated": "2019-06-11",
         "lastModified": "2017-06-10"
       },
       "languages": [
@@ -1760,7 +1762,7 @@
       "downloadURL": "https://github.com/nsacyber/serial2pcap/archive/master.zip",
       "date": {
         "created": "2017-10-02",
-        "metadataLastUpdated": "2019-04-24",
+        "metadataLastUpdated": "2019-06-28",
         "lastModified": "2017-10-25"
       },
       "languages": [
@@ -1882,7 +1884,7 @@
       "downloadURL": "https://github.com/nsacyber/CodeGov/archive/master.zip",
       "date": {
         "created": "2017-10-17",
-        "metadataLastUpdated": "2019-05-07",
+        "metadataLastUpdated": "2019-07-04",
         "lastModified": "2019-01-16"
       },
       "languages": [
@@ -1974,8 +1976,8 @@
       "downloadURL": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance/archive/master.zip",
       "date": {
         "created": "2018-01-10",
-        "metadataLastUpdated": "2019-06-04",
-        "lastModified": "2019-06-03"
+        "metadataLastUpdated": "2019-07-08",
+        "lastModified": "2019-06-25"
       },
       "languages": []
     },
@@ -2013,8 +2015,8 @@
       "downloadURL": "https://github.com/nsacyber/HIRS/archive/master.zip",
       "date": {
         "created": "2018-01-19",
-        "metadataLastUpdated": "2019-06-03",
-        "lastModified": "2019-06-03"
+        "metadataLastUpdated": "2019-07-10",
+        "lastModified": "2019-07-10"
       },
       "languages": [
         "Java",
@@ -2026,7 +2028,8 @@
         "CMake",
         "Makefile",
         "Roff",
-        "Ruby"
+        "Ruby",
+        "TSQL"
       ]
     },
     {
@@ -2066,7 +2069,7 @@
       "downloadURL": "https://github.com/nsacyber/BitLocker-Guidance/archive/master.zip",
       "date": {
         "created": "2018-02-12",
-        "metadataLastUpdated": "2019-06-02",
+        "metadataLastUpdated": "2019-07-05",
         "lastModified": "2018-07-10"
       },
       "languages": [
@@ -2106,8 +2109,8 @@
       "downloadURL": "https://github.com/nsacyber/paccor/archive/master.zip",
       "date": {
         "created": "2018-09-28",
-        "metadataLastUpdated": "2019-06-02",
-        "lastModified": "2019-05-14"
+        "metadataLastUpdated": "2019-07-10",
+        "lastModified": "2019-06-23"
       },
       "languages": [
         "Java",
@@ -2146,7 +2149,7 @@
       "downloadURL": "https://github.com/nsacyber/Cyber-Challenge/archive/master.zip",
       "date": {
         "created": "2018-10-05",
-        "metadataLastUpdated": "2019-05-07",
+        "metadataLastUpdated": "2019-06-23",
         "lastModified": "2018-10-05"
       },
       "languages": [
@@ -2183,10 +2186,88 @@
       "downloadURL": "https://github.com/nsacyber/Blocking-Outdated-Web-Technologies/archive/master.zip",
       "date": {
         "created": "2019-03-05",
-        "metadataLastUpdated": "2019-06-03",
+        "metadataLastUpdated": "2019-07-01",
         "lastModified": "2019-04-25"
       },
       "languages": [
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "RandPassGenerator",
+      "repositoryURL": "https://github.com/nsacyber/RandPassGenerator",
+      "description": "A command-line utility  for generating random passwords, passphrases, and raw keys. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/RandPassGenerator/blob/master/LICENSE.md",
+            "name": "Other"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "password",
+        "password-generator"
+      ],
+      "contact": {
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/RandPassGenerator",
+      "downloadURL": "https://github.com/nsacyber/RandPassGenerator/archive/master.zip",
+      "date": {
+        "created": "2019-05-10",
+        "metadataLastUpdated": "2019-07-04",
+        "lastModified": "2019-06-05"
+      },
+      "languages": [
+        "Java"
+      ]
+    },
+    {
+      "name": "PRUNE",
+      "repositoryURL": "https://github.com/nsacyber/PRUNE",
+      "description": "Logs key Windows process performance metrics. #nsacyber",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://github.com/nsacyber/PRUNE/blob/master/LICENSE.md",
+            "name": "Other"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "laborHours": 1,
+      "tags": [
+        "windows",
+        "performance",
+        "process",
+        "performance-metrics",
+        "etw"
+      ],
+      "contact": {
+        "email": "cybersecurity_requests@nsa.gov",
+        "URL": "https://www.nsa.gov/about/contact-us/",
+        "name": "NSA Cybersecurity",
+        "phone": "410-854-4200"
+      },
+      "status": "Production",
+      "vcs": "git",
+      "homepageURL": "https://github.com/nsacyber/PRUNE",
+      "downloadURL": "https://github.com/nsacyber/PRUNE/archive/master.zip",
+      "date": {
+        "created": "2019-05-16",
+        "metadataLastUpdated": "2019-06-14",
+        "lastModified": "2019-06-03"
+      },
+      "languages": [
+        "C#",
         "PowerShell"
       ]
     }

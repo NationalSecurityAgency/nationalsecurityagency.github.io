@@ -14,6 +14,10 @@
     {% include skipnav.html %}
     {% include header.html %}
 
+    {% if site.notification_banner %}
+      {% include notification-banner.html %}
+    {% endif %}
+
     {% assign hero = page.hero %}
     {% include components/hero.html %}
 
