@@ -72,22 +72,11 @@ h6 {
   font-family: $font-serif;
   line-height: $heading-line-height;
   margin-bottom: 0.5em;
-  margin-top: 0.5em;
+  margin-top: 1.5em;
 }
 
 h1 {
   @include h1();
-  vertical-align: middle;
-  @media (max-width : 950px){
-      overflow-wrap: break-word;
-      font-size: 25px;
-    } 
-  @media (max-width : 450px){
-      overflow-wrap: break-word;
-      font-size: 15px;
-      margin-bottom: 0.626em;
-      margin-top: 0.626em;
-    } 
 }
 
 h2 {

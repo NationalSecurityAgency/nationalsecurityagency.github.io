@@ -163,7 +163,7 @@ $z-index-nav:     9000;
 
   .usa-nav {
     @include media($nav-width) {
-      //border-top: 1px solid $color-gray-lighter;//
+      border-top: 1px solid $color-gray-lighter;
       float: none;
       padding: 0;
       width: 100%;
