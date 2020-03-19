@@ -12,8 +12,7 @@
 
 .usa-navbar {
   border-bottom: 1px solid $color-gray-light;
-  display: block;
-  overflow: auto;
+  height: 4rem;
 
   @include media($nav-width) {
     border-bottom: none;
@@ -333,10 +332,10 @@
 
 .usa-nav-secondary-links {
   margin-top: 2.4rem;
-  
+
   @include media($nav-width) {
     float: left;
-    margin-top: -1.5em;
+    margin-top: 0;
   }
 
   li {
@@ -344,18 +343,16 @@
       display: inline;
       padding-left: 0.5rem;
     }
-    @media (max-width : 950px){
-        border-bottom: 1px solid #5b616b;
-      }
+
     &:not(:last-child)::after {
       @include media($nav-width) {
         color: $color-gray-lighter;
         content: '|';
         padding-left: 0.5rem;
-        }
+      }
     }
-
   }
+
   a,
   .usa-header-search-button {
     color: $color-gray;
@@ -366,11 +363,6 @@
     &:hover {
       color: $color-primary;
       text-decoration: underline;
-    }
-    @media (max-width : 950px){
-      padding: 0.85rem 1rem 0.85rem 1.5rem;
-      display: block;
-      line-height: 1.3;
     }
   }
 
