@@ -497,11 +497,11 @@
       "homepage": ""
     },
     {
-      "name": "Scap Security Guide (SSG)",
+      "name": "ComplianceAsCode Project",
       "html_url": "https://github.com/ComplianceAsCode/content",
-      "forks_count": 315,
-      "stargazers_count": 755,
-      "description": "Security compliance content in SCAP, Bash, Ansible, and other formats",
+      "forks_count": 368,
+      "stargazers_count": 887,
+      "description": "Security automation content in SCAP, OSCAL, Bash, Ansible, and other formats.",
       "homepage": "https://www.open-scap.org/security-policies/scap-security-guide"
     },
     {
