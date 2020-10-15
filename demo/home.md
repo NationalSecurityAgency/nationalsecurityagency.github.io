@@ -8,14 +8,14 @@ hero:
   image: /assets/img/background.png
   callout:
     alt: "Featured Repo:"
-    text: GHIDRA
+    text: SkillTree
   button:
-    href: https://github.com/NationalSecurityAgency/ghidra
+    href: https://github.com/NationalSecurityAgency/skills-service
     text: VIEW REPO
   link:
-    text: Ghidra's homepage
-    href: https://ghidra-sre.org/
-  content: Ghidra is a software reverse engineering (SRE) framework that helps analyze malicious code and malware like viruses.
+    text: SkillTree's homepage
+    href: https://code.nsa.gov/skills-docs/
+  content: SkillTree is an innovative approach to implementing application training.
 
 tagline: NSA-Developed Open Source Software
 intro: |
