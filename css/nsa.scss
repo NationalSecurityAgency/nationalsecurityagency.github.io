@@ -1,0 +1,79 @@
+---
+---
+
+h1,h2,h3,h4,h5,h6 {
+  margin-top: 0.5em;
+}
+
+h1 {
+  vertical-align: middle;
+  @media (max-width: 950px) {
+    overflow-wrap: break-word;
+    font-size: 25px;
+  }
+  @media (max-width: 450px) {
+    overflow-wrap: break-word;
+    font-size: 15px;
+    margin-bottom: 0.626em;
+    margin-top: 0.626em;
+  }
+}
+
+.notification-banner {
+  background-color: #D40000;
+  color: #FFF;
+  text-align: center;
+}
+
+.usa-footer-contact-links {
+  @media screen and (min-width: 600px) {
+    text-align: right;
+    margin-top: 4.5rem;
+  }
+}
+
+.usa-header-extended {
+  .usa-nav {
+    @media screen and (min-width: 951px) {
+      border-top: none;
+    }
+  }
+}
+
+.usa-hero {
+  background-image: none;
+  background-color: #204478;
+  background-size: 1114px 431px;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.usa-hero-callout {
+  opacity: 0.9;
+}
+
+.usa-navbar {
+  height: auto;
+  display: block;
+  overflow: auto;
+}
+
+.usa-nav-secondary-links {
+  @media screen and (min-width: 951px) {
+    margin-top: -1.5em;
+  }
+  li {
+    @media (max-width: 950px) {
+      border-bottom: 1px solid #5b616b;
+    }
+  }
+  a,
+  .usa-header-search-button {
+    @media (max-width: 950px) {
+      padding: 0.85rem 1rem 0.85rem 1.5rem;
+      display: block;
+      line-height: 1.3;
+    }
+  }
+}
+

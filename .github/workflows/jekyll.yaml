@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [ 'main' ]
+  pull_request:
+    branches: [ 'main' ]
+
+jobs:
+  jekyll:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - name: Cache gems
+      uses: actions/cache@v2
+      with:
+        path: ~/vendor/bundle
+        key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: ${{ runner.os }}-gem
+    - name: Test site build
+      run: |
+        ruby --version
+        gem install bundler
+        bundle config path ~/vendor/bundle
+        bundle install --jobs 4 --retry 3
+        bundle exec jekyll build
+    - name: Upload site
+      uses: actions/upload-artifact@v2
+      with:
+        name: site
+        path: ./_site/
+        if-no-files-found: ignore
+
