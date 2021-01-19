@@ -3,40 +3,40 @@
     {
       "name": "SIMP",
       "html_url": "https://github.com/NationalSecurityAgency/SIMP",
-      "forks_count": 287,
-      "stargazers_count": 1306,
+      "forks_count": 285,
+      "stargazers_count": 1310,
       "description": "A system automation and configuration management stack targeted toward operational flexibility and policy compliance.",
       "homepage": "https://simp-project.com"
     },
     {
       "name": "timely",
       "html_url": "https://github.com/NationalSecurityAgency/timely",
-      "forks_count": 105,
-      "stargazers_count": 348,
+      "forks_count": 104,
+      "stargazers_count": 353,
       "description": "Accumulo backed time series database",
       "homepage": "https://code.nsa.gov/timely/"
     },
     {
       "name": "qgis-latlontools-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-latlontools-plugin",
-      "forks_count": 83,
-      "stargazers_count": 203,
+      "forks_count": 88,
+      "stargazers_count": 209,
       "description": "QGIS tools to capture and zoom to coordinates using decimal, DMS, WKT, GeoJSON, MGRS, UTM, and Plus Codes notation. Provides external map support, MGRS & Plus Codes conversion and point digitizing tools.",
       "homepage": ""
     },
     {
       "name": "qgis-searchlayers-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin",
-      "forks_count": 38,
-      "stargazers_count": 52,
+      "forks_count": 37,
+      "stargazers_count": 54,
       "description": "Enhanced textual vector layer searching in QGIS.",
       "homepage": ""
     },
     {
       "name": "qgis-shapetools-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-shapetools-plugin",
-      "forks_count": 58,
-      "stargazers_count": 101,
+      "forks_count": 56,
+      "stargazers_count": 109,
       "description": "Shape Tools creates geodesic shapes and includes a number of geodesic tools for QGIS including the XY to Line tool, geodesic densify tool, geodesic line break, geodesic measure tool, geodesic measurement layer, geodesic scale, rotate and translate tool, and digitize points at an azimuth & distance tools.",
       "homepage": ""
     },
@@ -44,39 +44,39 @@
       "name": "qgis-d3datavis-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-d3datavis-plugin",
       "forks_count": 47,
-      "stargazers_count": 104,
+      "stargazers_count": 107,
       "description": "QGIS D3 Date and Time Heatmap",
       "homepage": ""
     },
     {
       "name": "lemongraph",
       "html_url": "https://github.com/NationalSecurityAgency/lemongraph",
-      "forks_count": 129,
-      "stargazers_count": 1008,
+      "forks_count": 130,
+      "stargazers_count": 1026,
       "description": "Log-based transactional graph engine",
       "homepage": ""
     },
     {
       "name": "lemongrenade",
       "html_url": "https://github.com/NationalSecurityAgency/lemongrenade",
-      "forks_count": 83,
-      "stargazers_count": 278,
+      "forks_count": 84,
+      "stargazers_count": 279,
       "description": "Data-driven automation platform",
       "homepage": ""
     },
     {
       "name": "DCP",
       "html_url": "https://github.com/NationalSecurityAgency/DCP",
-      "forks_count": 102,
-      "stargazers_count": 310,
+      "forks_count": 101,
+      "stargazers_count": 314,
       "description": "Digest, stat, and copy files from one location to another in the same read pass",
       "homepage": ""
     },
     {
       "name": "qgis-bulk-nominatim",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-bulk-nominatim",
-      "forks_count": 12,
-      "stargazers_count": 19,
+      "forks_count": 11,
+      "stargazers_count": 21,
       "description": "Provides bulk nominatim geocoding for QGIS",
       "homepage": ""
     },
@@ -84,23 +84,23 @@
       "name": "qonduit",
       "html_url": "https://github.com/NationalSecurityAgency/qonduit",
       "forks_count": 37,
-      "stargazers_count": 52,
+      "stargazers_count": 54,
       "description": "A WebSocket library for use with Apache Accumulo",
       "homepage": ""
     },
     {
       "name": "datawave",
       "html_url": "https://github.com/NationalSecurityAgency/datawave",
-      "forks_count": 162,
-      "stargazers_count": 327,
+      "forks_count": 171,
+      "stargazers_count": 331,
       "description": "DataWave is an ingest/query framework that leverages Apache Accumulo to provide fast, secure data access.",
       "homepage": "https://code.nsa.gov/datawave"
     },
     {
       "name": "qgis-kmltools-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-kmltools-plugin",
-      "forks_count": 20,
-      "stargazers_count": 27,
+      "forks_count": 19,
+      "stargazers_count": 29,
       "description": "Fast KML Importer Plugin for QGIS",
       "homepage": ""
     },
@@ -108,23 +108,23 @@
       "name": "fractalrabbit",
       "html_url": "https://github.com/NationalSecurityAgency/fractalrabbit",
       "forks_count": 30,
-      "stargazers_count": 67,
+      "stargazers_count": 69,
       "description": "Simulate realistic trajectory data seen through sporadic reporting",
       "homepage": ""
     },
     {
       "name": "datawave-muchos",
       "html_url": "https://github.com/NationalSecurityAgency/datawave-muchos",
-      "forks_count": 27,
-      "stargazers_count": 21,
+      "forks_count": 26,
+      "stargazers_count": 23,
       "description": "This project leverages Ansible to automate DataWave deployments on your cluster",
       "homepage": ""
     },
     {
       "name": "emissary",
       "html_url": "https://github.com/NationalSecurityAgency/emissary",
-      "forks_count": 81,
-      "stargazers_count": 147,
+      "forks_count": 83,
+      "stargazers_count": 157,
       "description": "Distributed P2P Data-driven Workflow Framework",
       "homepage": ""
     },
