@@ -131,64 +131,64 @@
     {
       "name": "nationalsecurityagency.github.io",
       "html_url": "https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io",
-      "forks_count": 36,
-      "stargazers_count": 122,
+      "forks_count": 35,
+      "stargazers_count": 128,
       "description": "Site for NSA's Open Source project listing",
       "homepage": "https://code.nsa.gov"
     },
     {
       "name": "enigma-simulator",
       "html_url": "https://github.com/NationalSecurityAgency/enigma-simulator",
-      "forks_count": 47,
-      "stargazers_count": 238,
+      "forks_count": 53,
+      "stargazers_count": 266,
       "description": "An educational demonstration of breaking the Enigma machine",
       "homepage": ""
     },
     {
       "name": "MADCert",
       "html_url": "https://github.com/NationalSecurityAgency/MADCert",
-      "forks_count": 0,
-      "stargazers_count": 5,
+      "forks_count": 5,
+      "stargazers_count": 19,
       "description": "Create root and intermediate Certificate Authorities, issue user and server certificates, etc. for testing purposes.",
       "homepage": ""
     },
     {
       "name": "ghidra",
       "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "forks_count": 3085,
-      "stargazers_count": 22686,
+      "forks_count": 3292,
+      "stargazers_count": 24379,
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "homepage": "https://www.nsa.gov/ghidra"
     },
     {
       "name": "ghidra-data",
       "html_url": "https://github.com/NationalSecurityAgency/ghidra-data",
-      "forks_count": 45,
-      "stargazers_count": 84,
+      "forks_count": 48,
+      "stargazers_count": 96,
       "description": "Supporting Data Archives for Ghidra",
       "homepage": "https://www.nsa.gov/ghidra"
     },
     {
       "name": "kmyth",
       "html_url": "https://github.com/NationalSecurityAgency/kmyth",
-      "forks_count": 13,
-      "stargazers_count": 14,
+      "forks_count": 19,
+      "stargazers_count": 23,
       "description": "A project about distributed key management using cryptography and trusted hardware",
       "homepage": ""
     },
     {
       "name": "accumulo-python3",
       "html_url": "https://github.com/NationalSecurityAgency/accumulo-python3",
-      "forks_count": 6,
-      "stargazers_count": 9,
+      "forks_count": 7,
+      "stargazers_count": 10,
       "description": "Build Python 3 applications that integrate with Apache Accumulo",
       "homepage": ""
     },
     {
       "name": "XORSATFilter",
       "html_url": "https://github.com/NationalSecurityAgency/XORSATFilter",
-      "forks_count": 5,
-      "stargazers_count": 11,
+      "forks_count": 8,
+      "stargazers_count": 14,
       "description": "A library for building efficient set-membership filters and dictionaries based on the Satisfiability problem.",
       "homepage": ""
     },
@@ -196,15 +196,15 @@
       "name": "qgis-mgrs-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-mgrs-plugin",
       "forks_count": 2,
-      "stargazers_count": 1,
+      "stargazers_count": 3,
       "description": "QGIS Tools to capture and zoom to MGRS coordinates.",
       "homepage": ""
     },
     {
       "name": "skills-service",
       "html_url": "https://github.com/NationalSecurityAgency/skills-service",
-      "forks_count": 6,
-      "stargazers_count": 29,
+      "forks_count": 20,
+      "stargazers_count": 67,
       "description": "SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.",
       "homepage": "https://code.nsa.gov/skills-docs/"
     },
@@ -212,7 +212,7 @@
       "name": "qgis-lockzoom-plugin",
       "html_url": "https://github.com/NationalSecurityAgency/qgis-lockzoom-plugin",
       "forks_count": 2,
-      "stargazers_count": 1,
+      "stargazers_count": 3,
       "description": "QGIS Lock Zoom to Tile Scale",
       "homepage": ""
     },
@@ -220,7 +220,7 @@
       "name": "PACE",
       "html_url": "https://github.com/NationalSecurityAgency/PACE",
       "forks_count": 0,
-      "stargazers_count": 0,
+      "stargazers_count": 2,
       "description": "Proactively-secure Accumulo with Cryptographic Enforcement (PACE) adds client-side encryption and signatures to Accumulo.",
       "homepage": ""
     },
@@ -228,7 +228,7 @@
       "name": "PACE-python",
       "html_url": "https://github.com/NationalSecurityAgency/PACE-python",
       "forks_count": 0,
-      "stargazers_count": 0,
+      "stargazers_count": 2,
       "description": "A client-side library containing cryptographic protections against a malicious Accumulo server",
       "homepage": ""
     },
@@ -236,15 +236,15 @@
       "name": "Pass-the-Hash-Guidance",
       "html_url": "https://github.com/nsacyber/Pass-the-Hash-Guidance",
       "forks_count": 52,
-      "stargazers_count": 175,
+      "stargazers_count": 177,
       "description": "Configuration guidance for implementing Pass-the-Hash mitigations. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Event-Forwarding-Guidance",
       "html_url": "https://github.com/nsacyber/Event-Forwarding-Guidance",
-      "forks_count": 136,
-      "stargazers_count": 555,
+      "forks_count": 138,
+      "stargazers_count": 586,
       "description": "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. #nsacyber",
       "homepage": ""
     },
@@ -252,54 +252,54 @@
       "name": "AppLocker-Guidance",
       "html_url": "https://github.com/nsacyber/AppLocker-Guidance",
       "forks_count": 59,
-      "stargazers_count": 166,
+      "stargazers_count": 170,
       "description": "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Control-Flow-Integrity",
       "html_url": "https://github.com/nsacyber/Control-Flow-Integrity",
-      "forks_count": 51,
-      "stargazers_count": 128,
+      "forks_count": 50,
+      "stargazers_count": 129,
       "description": "A proposed hardware-based method for stopping known memory corruption exploitation techniques. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Maplesyrup",
       "html_url": "https://github.com/nsacyber/Maplesyrup",
-      "forks_count": 47,
-      "stargazers_count": 120,
+      "forks_count": 46,
+      "stargazers_count": 121,
       "description": "Assesses CPU security of embedded devices. #nsacyber",
       "homepage": ""
     },
     {
       "name": "GRASSMARLIN",
       "html_url": "https://github.com/nsacyber/GRASSMARLIN",
-      "forks_count": 229,
-      "stargazers_count": 600,
+      "forks_count": 243,
+      "stargazers_count": 614,
       "description": "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Windows-Secure-Host-Baseline",
       "html_url": "https://github.com/nsacyber/Windows-Secure-Host-Baseline",
-      "forks_count": 256,
-      "stargazers_count": 1266,
+      "forks_count": 259,
+      "stargazers_count": 1281,
       "description": "Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber",
       "homepage": ""
     },
     {
       "name": "goSecure",
       "html_url": "https://github.com/nsacyber/goSecure",
-      "forks_count": 180,
-      "stargazers_count": 912,
+      "forks_count": 179,
+      "stargazers_count": 918,
       "description": "An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber",
       "homepage": "https://nsacyber.github.io/goSecure/"
     },
     {
       "name": "LOCKLEVEL",
       "html_url": "https://github.com/nsacyber/LOCKLEVEL",
-      "forks_count": 29,
+      "forks_count": 28,
       "stargazers_count": 92,
       "description": "A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
       "homepage": ""
@@ -307,7 +307,7 @@
     {
       "name": "Splunk-Assessment-of-Mitigation-Implementations",
       "html_url": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
-      "forks_count": 38,
+      "forks_count": 37,
       "stargazers_count": 67,
       "description": "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
       "homepage": ""
@@ -315,31 +315,31 @@
     {
       "name": "Certificate-Authority-Situational-Awareness",
       "html_url": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness",
-      "forks_count": 41,
-      "stargazers_count": 95,
+      "forks_count": 40,
+      "stargazers_count": 96,
       "description": "Identifies unexpected and prohibited certificate authority certificates on Windows systems. #nsacyber",
       "homepage": ""
     },
     {
       "name": "WALKOFF",
       "html_url": "https://github.com/nsacyber/WALKOFF",
-      "forks_count": 190,
-      "stargazers_count": 774,
+      "forks_count": 196,
+      "stargazers_count": 816,
       "description": "A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",
       "homepage": "https://nsacyber.github.io/WALKOFF/"
     },
     {
       "name": "simon-speck",
       "html_url": "https://github.com/nsacyber/simon-speck",
-      "forks_count": 38,
-      "stargazers_count": 141,
+      "forks_count": 37,
+      "stargazers_count": 146,
       "description": "The SIMON and SPECK families of lightweight block ciphers. #nsacyber",
       "homepage": "https://nsacyber.github.io/simon-speck/"
     },
     {
       "name": "simon-speck-supercop",
       "html_url": "https://github.com/nsacyber/simon-speck-supercop",
-      "forks_count": 16,
+      "forks_count": 15,
       "stargazers_count": 34,
       "description": "Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber",
       "homepage": "https://nsacyber.github.io/simon-speck"
@@ -347,16 +347,16 @@
     {
       "name": "Windows-Event-Log-Messages",
       "html_url": "https://github.com/nsacyber/Windows-Event-Log-Messages",
-      "forks_count": 91,
-      "stargazers_count": 332,
+      "forks_count": 90,
+      "stargazers_count": 344,
       "description": "Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats. #nsacyber",
       "homepage": ""
     },
     {
       "name": "unfetter",
       "html_url": "https://github.com/nsacyber/unfetter",
-      "forks_count": 44,
-      "stargazers_count": 149,
+      "forks_count": 43,
+      "stargazers_count": 152,
       "description": "Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework. #nsacyber",
       "homepage": "http://unfetter.io/"
     },
@@ -364,7 +364,7 @@
       "name": "netman",
       "html_url": "https://github.com/nsacyber/netman",
       "forks_count": 26,
-      "stargazers_count": 62,
+      "stargazers_count": 63,
       "description": "A userland network manager with monitoring and limiting capabilities for macOS. #nsacyber",
       "homepage": ""
     },
@@ -372,7 +372,7 @@
       "name": "netfil",
       "html_url": "https://github.com/nsacyber/netfil",
       "forks_count": 32,
-      "stargazers_count": 92,
+      "stargazers_count": 94,
       "description": "A kernel network manager with monitoring and limiting capabilities for macOS. #nsacyber",
       "homepage": ""
     },
@@ -380,14 +380,14 @@
       "name": "nsacyber.github.io",
       "html_url": "https://github.com/nsacyber/nsacyber.github.io",
       "forks_count": 46,
-      "stargazers_count": 172,
+      "stargazers_count": 184,
       "description": "NSA Cybersecurity. Formerly known as NSA Information Assurance and the Information Assurance Directorate",
       "homepage": "https://nsacyber.github.io"
     },
     {
       "name": "WALKOFF-Apps",
       "html_url": "https://github.com/nsacyber/WALKOFF-Apps",
-      "forks_count": 41,
+      "forks_count": 40,
       "stargazers_count": 118,
       "description": "WALKOFF-enabled applications. #nsacyber",
       "homepage": "https://nsacyber.github.io/WALKOFF"
@@ -395,16 +395,16 @@
     {
       "name": "AtomicWatch",
       "html_url": "https://github.com/nsacyber/AtomicWatch",
-      "forks_count": 19,
-      "stargazers_count": 23,
+      "forks_count": 20,
+      "stargazers_count": 25,
       "description": "Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found. #nsacyber",
       "homepage": ""
     },
     {
       "name": "serial2pcap",
       "html_url": "https://github.com/nsacyber/serial2pcap",
-      "forks_count": 26,
-      "stargazers_count": 34,
+      "forks_count": 27,
+      "stargazers_count": 35,
       "description": "Converts serial IP data, typically collected from Industrial Control System devices, to the more commonly used Packet Capture (PCAP) format. #nsacyber",
       "homepage": ""
     },
@@ -412,7 +412,7 @@
       "name": "Driver-Collider",
       "html_url": "https://github.com/nsacyber/Driver-Collider",
       "forks_count": 17,
-      "stargazers_count": 26,
+      "stargazers_count": 30,
       "description": "Blocks drivers from loading by using a name collision technique. #nsacyber",
       "homepage": ""
     },
@@ -420,14 +420,14 @@
       "name": "HTTP-Connectivity-Tester",
       "html_url": "https://github.com/nsacyber/HTTP-Connectivity-Tester",
       "forks_count": 27,
-      "stargazers_count": 56,
+      "stargazers_count": 58,
       "description": "Aids in discovering HTTP and HTTPS connectivity issues. #nsacyber",
       "homepage": ""
     },
     {
       "name": "CodeGov",
       "html_url": "https://github.com/nsacyber/CodeGov",
-      "forks_count": 14,
+      "forks_count": 13,
       "stargazers_count": 15,
       "description": "Creates a code.gov code inventory JSON file based on GitHub repository information. #nsacyber",
       "homepage": ""
@@ -435,48 +435,48 @@
     {
       "name": "Detect-CVE-2017-15361-TPM",
       "html_url": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM",
-      "forks_count": 23,
-      "stargazers_count": 32,
+      "forks_count": 24,
+      "stargazers_count": 34,
       "description": "Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Hardware-and-Firmware-Security-Guidance",
       "html_url": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance",
-      "forks_count": 90,
-      "stargazers_count": 357,
+      "forks_count": 96,
+      "stargazers_count": 392,
       "description": "Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber",
       "homepage": ""
     },
     {
       "name": "HIRS",
       "html_url": "https://github.com/nsacyber/HIRS",
-      "forks_count": 32,
-      "stargazers_count": 82,
+      "forks_count": 36,
+      "stargazers_count": 88,
       "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
       "homepage": ""
     },
     {
       "name": "BitLocker-Guidance",
       "html_url": "https://github.com/nsacyber/BitLocker-Guidance",
-      "forks_count": 30,
-      "stargazers_count": 62,
+      "forks_count": 29,
+      "stargazers_count": 69,
       "description": "Configuration guidance for implementing BitLocker. #nsacyber",
       "homepage": ""
     },
     {
       "name": "paccor",
       "html_url": "https://github.com/nsacyber/paccor",
-      "forks_count": 12,
-      "stargazers_count": 30,
+      "forks_count": 11,
+      "stargazers_count": 31,
       "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
       "homepage": "https://github.com/nsacyber/HIRS"
     },
     {
       "name": "Cyber-Challenge",
       "html_url": "https://github.com/nsacyber/Cyber-Challenge",
-      "forks_count": 14,
-      "stargazers_count": 27,
+      "forks_count": 13,
+      "stargazers_count": 29,
       "description": "Supporting files for cyber challenge exercises. #nsacyber",
       "homepage": ""
     },
