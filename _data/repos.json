@@ -483,24 +483,24 @@
     {
       "name": "BAM",
       "html_url": "https://github.com/nsacyber/BAM",
-      "forks_count": 17,
-      "stargazers_count": 82,
+      "forks_count": 18,
+      "stargazers_count": 87,
       "description": "The Binary Analysis Metadata tool gathers information about Windows binaries to aid in their analysis. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Blocking-Outdated-Web-Technologies",
       "html_url": "https://github.com/nsacyber/Blocking-Outdated-Web-Technologies",
-      "forks_count": 8,
-      "stargazers_count": 27,
+      "forks_count": 9,
+      "stargazers_count": 31,
       "description": "Guidance for blocking outdated web technologies. #nsacyber",
       "homepage": ""
     },
     {
       "name": "RandPassGenerator",
       "html_url": "https://github.com/nsacyber/RandPassGenerator",
-      "forks_count": 10,
-      "stargazers_count": 19,
+      "forks_count": 11,
+      "stargazers_count": 23,
       "description": "A command-line utility  for generating random passwords, passphrases, and raw keys. #nsacyber",
       "homepage": ""
     },
@@ -508,23 +508,31 @@
       "name": "PRUNE",
       "html_url": "https://github.com/nsacyber/PRUNE",
       "forks_count": 11,
-      "stargazers_count": 31,
+      "stargazers_count": 32,
       "description": "Logs key Windows process performance metrics. #nsacyber",
       "homepage": ""
     },
     {
       "name": "Mitigating-Web-Shells",
       "html_url": "https://github.com/nsacyber/Mitigating-Web-Shells",
-      "forks_count": 139,
-      "stargazers_count": 611,
+      "forks_count": 149,
+      "stargazers_count": 649,
       "description": "Guidance for mitigation web shells. #nsacyber",
       "homepage": ""
     },
     {
+			"name": "Mitigating-Obsolete-TLS",
+			"html_url": "https://github.com/nsacyber/Mitigating-Obsolete-TLS",
+			"forks_count": 16,
+			"stargazers_count": 117,
+			"description": "Guidance for mitigating obsolete Transport Layer Security configurations. #nsacyber",
+			"homepage": ""
+		},
+    {
       "name": "Apache accumulo",
       "html_url": "https://github.com/apache/accumulo",
-      "forks_count": 340,
-      "stargazers_count": 834,
+      "forks_count": 344,
+      "stargazers_count": 845,
       "description": "A sorted, distributed key/value store that provides robust, scalable data storage and retrieval",
       "homepage": "https://accumulo.apache.org"
     },
@@ -540,31 +548,31 @@
       "name": "femto",
       "html_url": "https://github.com/femto-dev/femto",
       "forks_count": 25,
-      "stargazers_count": 96,
+      "stargazers_count": 98,
       "description": "Sequence Indexing and Search",
       "homepage": ""
     },
     {
       "name": "owf-framework",
       "html_url": "https://github.com/ozoneplatform/owf-framework",
-      "forks_count": 151,
-      "stargazers_count": 325,
+      "forks_count": 150,
+      "stargazers_count": 323,
       "description": "OZONE Widget Framework",
       "homepage": "http://ozoneplatform.org"
     },
     {
       "name": "OpenAttestation",
       "html_url": "https://github.com/OpenAttestation/OpenAttestation",
-      "forks_count": 66,
-      "stargazers_count": 2,
+      "forks_count": 67,
+      "stargazers_count": 3,
       "description": "Software Development Kit to enable remotely retrieval and verify target platforms integrity",
       "homepage": "https://github.com/OpenAttestation/OpenAttestation"
     },
     {
       "name": "unfetter",
       "html_url": "https://github.com/unfetter-discover/unfetter",
-      "forks_count": 64,
-      "stargazers_count": 368,
+      "forks_count": 65,
+      "stargazers_count": 371,
       "description": "The main project for the Unfetter-Discover application.  This is the project that will hold the configuration files, the docker-compose files, issue tracking, and documentation",
       "homepage": "http://unfetter.io/"
     },
@@ -572,15 +580,15 @@
       "name": "waterslide",
       "html_url": "https://github.com/waterslideLTS/waterslide",
       "forks_count": 36,
-      "stargazers_count": 95,
+      "stargazers_count": 98,
       "description": "WaterSlide is a streaming event-at-a-time architecture for processing metadata. It is designed to take in a set of streaming events from multiple sources, process them through a set of modules (\"kids\"), and return meaningful outputs.",
       "homepage": ""
     },
     {
       "name": "Scap Security Guide (SSG)",
       "html_url": "https://github.com/ComplianceAsCode/content",
-      "forks_count": 427,
-      "stargazers_count": 1077,
+      "forks_count": 447,
+      "stargazers_count": 1150,
       "description": "Security compliance content in SCAP, Bash, Ansible, and other formats",
       "homepage": "https://www.open-scap.org/security-policies/scap-security-guide"
     },
