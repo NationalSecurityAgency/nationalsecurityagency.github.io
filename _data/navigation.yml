@@ -20,7 +20,7 @@ secondary:
     href: https://github.com/nsacyber
     external: true
   - text: Tech Transfer Program
-    href: https://nsa.gov/what-we-do/research/technology-transfer/
+    href: https://www.nsa.gov/what-we-do/research/technology-transfer/
     external: true
 
 docs:
@@ -42,13 +42,13 @@ docs:
 
 footer:
   - text: Terms of Use
-    href: https://nsa.gov/terms-of-use/#terms
+    href: https://www.nsa.gov/terms-of-use/#terms
     external: true
   - text: Web Privacy & Security
-    href: https://nsa.gov/terms-of-use/#privacy
+    href: https://www.nsa.gov/terms-of-use/#privacy
     external: true
   - text: NSA.gov
-    href: https://NSA.gov
+    href: https://www.nsa.gov
     external: true
   - text: CODE.gov
     href: https://code.gov
