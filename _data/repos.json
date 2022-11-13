@@ -837,7 +837,7 @@
       "html_url": "https://github.com/efuller-gov/dm3k",
       "forks_count": 1,
       "stargazers_count": 0,
-      "description": "The Decision Maximizer 3000 optimization project",
+      "description": "The Decision Maximizer 3000. An optimization project",
       "homepage": ""
     },
     {
@@ -862,7 +862,7 @@
       "forks_count": 0,
       "stargazers_count": 0,
       "description": "Radically simplifies the operation of enterprise networks with SDN applications that reside on top of an OpenFlow-capable network controller.",
-      "homepage": ""
+      "homepage": " http://www.onop.org"
     },
     {
       "name": "RedhawkSDR",
