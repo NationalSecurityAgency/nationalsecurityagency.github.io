@@ -4,7 +4,7 @@ permalink: /
 layout: default
 
 hero:
-  image: /images/background.png
+  image: /images/background.jpg
   callout:
     alt: "Featured Repo:"
     text: SkillTree
