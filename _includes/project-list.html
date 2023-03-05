@@ -1,6 +1,6 @@
 <input type="text" class="myInput" id="Input" onkeyup="filterFunction()" placeholder="Search for repos..." title="Type in keyword" aria-label="repo search">
 <div class="card-deck" id="card-deck">
-  {% assign repos = site.data.repos.list | concat: site.data.temp.list | sort_natural:"name" %}
+  {% assign repos = site.data.repos.list | concat: site.data.temp.list | sort_natural:"stargazers_count" %}
 
   {% for item in repos %} 
     {% unless site.data.ignore.toc contains item.html_url %}
