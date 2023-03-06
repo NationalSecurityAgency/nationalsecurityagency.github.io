@@ -42,10 +42,10 @@ docs:
 
 footer:
   - text: Terms of Use
-    href: https://www.nsa.gov/terms-of-use/#terms
+    href: https://www.nsa.gov/terms
     external: true
   - text: Web Privacy & Security
-    href: https://www.nsa.gov/terms-of-use/#privacy
+    href: https://www.nsa.gov/privacy
     external: true
   - text: NSA.gov
     href: https://www.nsa.gov
