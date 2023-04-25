@@ -21,7 +21,7 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: /nsa-insignia-lg.png
+  src: /images/nsa-insignia-lg.png
   alt: NSA
   external: true
 
