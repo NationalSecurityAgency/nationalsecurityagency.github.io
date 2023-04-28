@@ -1,0 +1,5 @@
+{
+    "tasks": {
+      "grab": "deno run --allow-net=api.github.com --allow-write=_data/repos.json scripts/update_repos.ts"
+    }
+}
