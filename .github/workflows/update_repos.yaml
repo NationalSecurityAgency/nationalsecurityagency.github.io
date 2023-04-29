@@ -19,8 +19,18 @@ jobs:
     - name: Run Deno task
       run: deno task grab
 
-    - name: Push changes
+    - name: Configure Git
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+
+    - name: Commit changes
       run: |
         git add .
-        git -c user.name="${GITHUB_ACTOR}" -c user.email="${GITHUB_ACTOR}@users.noreply.github.com" commit -m "Automatically update _data/repos.json"
-        git push
+        git commit -m "Automatically update _data/repos.json"
+    
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git push "https://github.com/${{ github.repository }}" HEAD:main
