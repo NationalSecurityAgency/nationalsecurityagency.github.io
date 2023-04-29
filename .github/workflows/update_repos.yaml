@@ -22,5 +22,5 @@ jobs:
     - name: Push changes
       run: |
         git add .
-        git commit -m "Automatically update _data/repos.json"
+        git -c user.name="${GITHUB_ACTOR}" -c user.email="${GITHUB_ACTOR}@users.noreply.github.com" commit -m "Automatically update _data/repos.json"
         git push
