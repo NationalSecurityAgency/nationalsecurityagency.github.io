@@ -1,4 +1,4 @@
-// Updates __data/repos.json with the latest repos from the NSA GitHub organization.
+// Updates _data/repos.json with the latest repos from the NSA GitHub organization.
 
 interface Repo {
   name: string;
