@@ -19,18 +19,11 @@ jobs:
     - name: Run Deno task
       run: deno task grab
 
-    - name: Configure Git
-      run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
-
-    - name: Commit changes
-      run: |
-        git add .
-        git commit -m "Automatically update _data/repos.json"
-    
     - name: Push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git push "https://github.com/${{ github.repository }}" HEAD:main
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automatically update _data/repos.json"
+        commit_options: '--author="GitHub Actions <actions@github.com>"'
+        branch: main
+        pull_branch: true
+        github_token: ${{ secrets.GITHUB_TOKEN }}
