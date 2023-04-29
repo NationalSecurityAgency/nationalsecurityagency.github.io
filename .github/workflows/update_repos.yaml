@@ -1,29 +1,23 @@
 name: Update Repos
-
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
-
+    branches: ["main"]
 jobs:
-  update-and-push:
+  update-repos:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Setup Deno
-      uses: denoland/setup-deno@v1
-
-    - name: Run Deno task
-      run: deno task grab
-
-    - name: Push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Automatically update _data/repos.json"
-        commit_options: '--author="GitHub Actions <actions@github.com>"'
-        branch: main
-        pull_branch: true
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Run deno grab action
+        run: deno task grab
+      - uses: stefanzweifel/git-auto-commit-action@v4
+      
