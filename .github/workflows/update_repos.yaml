@@ -1,0 +1,26 @@
+name: Update Repos
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
+
+    - name: Run Deno task
+      run: deno task grab
+
+    - name: Push changes
+      run: |
+        git add .
+        git commit -m "Automatically update _data/repos.json"
+        git push
