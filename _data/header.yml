@@ -21,7 +21,7 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: https://www.nsa.gov/Portals/70/images/about/cryptologic-heritage/center-cryptologic-history/insignia/nsa-insignia-lg.png
+  src: https://oig.nsa.gov/portals/71/Images/Site%20Resources/nsa-insignia-sm.png?ver=2018-08-23-080304-950
   alt: NSA
   external: true
 
