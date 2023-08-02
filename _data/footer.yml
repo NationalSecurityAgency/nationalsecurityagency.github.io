@@ -37,7 +37,7 @@ heading: National Security Agency
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: https://www.nsa.gov/Portals/70/images/about/cryptologic-heritage/center-cryptologic-history/insignia/nsa-insignia-lg.png
+  - src: https://oig.nsa.gov/portals/71/Images/Site%20Resources/nsa-insignia-sm.png
     alt: NSA
     external: true
 
