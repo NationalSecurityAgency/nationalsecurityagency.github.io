@@ -50,10 +50,10 @@ contact:
       href: https://facebook.com/NSAUSGov/
       external: true
       type: facebook
-    - text: Twitter
-      href: https://twitter.com/nsagov
+    - text: X
+      href: https://x.com/nsagov
       external: true
-      type: twitter
+      type: x
     - text: YouTube
       href: https://youtube.com/channel/UCXfnaN5jl0RPR1dirFTOZ3A
       external: true
