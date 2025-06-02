@@ -1,4 +1,4 @@
-name: CI
+name: U
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
       with:
         ruby-version: 3.3
         bundler-cache: true
-    - name: Test site build
+    + name: main site build
       run: |
         ruby --version
         bundle exec jekyll build
